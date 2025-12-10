@@ -6,7 +6,7 @@
 
 MCP封装作者：庞力铖
 
-GitHub：
+GitHub：https://github.com/Plc912/Loganomaly-master-.git
 
 ## 环境：
 
