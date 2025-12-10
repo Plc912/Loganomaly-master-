@@ -1,0 +1,2000 @@
+1117838570 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1117838573 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1117838976 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1117838978 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1117842440 R23-M0-NE-C:J05-U01 INFO: 63543 double-hummer alignment exceptions
+1117842974 R24-M0-N1-C:J13-U11 INFO: 162 double-hummer alignment exceptions
+1117843015 R21-M1-N6-C:J08-U11 INFO: 141 double-hummer alignment exceptions
+1117848119 R16-M1-N2-C:J17-U01 INFO: CE sym 2, at 0x0b85eee0, mask 0x05
+1117869872 R04-M1-N4-I:J18-U11 FATAL: ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33569
+1117869876 R27-M1-N4-I:J18-U01 FATAL: ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33370
+1117942120 R30-M0-N7-C:J08-U01 INFO: CE sym 20, at 0x1438f9e0, mask 0x40
+1117955341 R25-M0-N7-C:J02-U01 INFO: generating core.2275
+1117955392 R24-M1-N8-C:J09-U11 INFO: generating core.862
+1117956980 R24-M1-NB-C:J15-U11 INFO: generating core.728
+1117957045 R20-M1-N8-C:J04-U01 INFO: generating core.775
+1117959501 R24-M0-NE-C:J14-U11 INFO: generating core.3276
+1117959513 R21-M1-N2-C:J11-U01 INFO: generating core.1717
+1117959563 R24-M0-N8-C:J04-U11 INFO: generating core.3919
+1117973759 R31-M0-NE-C:J05-U11 INFO: generating core.2079
+1117973786 R36-M0-NA-C:J06-U01 INFO: generating core.1414
+1117973919 R33-M0-N4-C:J02-U11 INFO: generating core.3055
+1117974206 R22-M0-ND-C:J10-U11 INFO: generating core.201
+1117974463 R27-M0-N6-C:J10-U01 INFO: generating core.1125
+1117975251 R26-M1-N8-C:J17-U11 INFO: generating core.412
+1117976658 R36-M1-N8-C:J17-U01 INFO: generating core.7828
+1117977497 R33-M1-NB-C:J06-U01 INFO: generating core.5570
+1117979227 R01-M1-N7-C:J04-U11 INFO: generating core.8275
+1117982609 R35-M1-NE-C:J05-U01 INFO: generating core.4183
+1117984124 R36-M1-NF-C:J11-U01 INFO: generating core.6545
+1117984130 R37-M1-NE-C:J13-U01 INFO: generating core.4245
+1117984216 R32-M1-N4-C:J16-U01 INFO: generating core.6884
+1117984246 R30-M1-N3-C:J02-U01 FATAL: force load/store alignment...............0
+1117985401 R34-M1-NE-C:J02-U01 INFO: generating core.6471
+1117985413 R31-M1-N7-C:J05-U11 INFO: generating core.4155
+1117985464 R32-M0-NF-C:J10-U01 INFO: generating core.449
+1117985533 R34-M1-NC-C:J06-U11 INFO: generating core.6990
+1117985547 R31-M1-NC-C:J14-U11 INFO: generating core.4876
+1117987420 R37-M0-N7-C:J08-U11 INFO: generating core.2218
+1117988266 R34-M1-NA-C:J07-U11 INFO: generating core.7518
+1117988286 R33-M1-N8-C:J09-U11 INFO: generating core.5854
+1117988416 R30-M1-N3-C:J10-U01 INFO: generating core.7457
+1117988443 R32-M1-N5-C:J17-U01 INFO: generating core.6896
+1117989483 R37-M0-N3-C:J14-U01 INFO: generating core.3488
+1117989508 R36-M0-NA-C:J17-U01 INFO: generating core.1172
+1117989530 R33-M0-N6-C:J08-U11 INFO: generating core.2286
+1117989577 R30-M0-ND-C:J07-U01 INFO: generating core.786
+1117989594 R35-M0-N5-C:J17-U11 INFO: generating core.2680
+1117989601 R32-M0-N2-C:J15-U01 INFO: generating core.1524
+1117989617 R35-M1-ND-C:J10-U11 INFO: generating core.4937
+1117990886 R36-M1-ND-C:J13-U01 INFO: generating core.6801
+1117990951 R31-M1-NF-C:J15-U01 INFO: generating core.4368
+1117990980 R34-M0-ND-C:J03-U01 INFO: generating core.851
+1117991006 R32-M0-N9-C:J17-U01 INFO: generating core.1744
+1117991046 R30-M0-N0-C:J17-U01 INFO: generating core.1588
+1117992519 R37-M1-N3-C:J05-U11 INFO: generating core.5307
+1117992553 R30-M1-NB-C:J17-U11 INFO: generating core.7192
+1118070512 R01-M1-NB-C:J03-U11 INFO: CE sym 20, at 0x01228120, mask 0x10
+1118070518 R01-M1-ND-C:J15-U11 INFO: CE sym 5, at 0x11042a80, mask 0x04
+1118079221 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118079403 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118080420 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118080480 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118080909 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118081048 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118081391 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118081467 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118112603 R22-M0-N0-C:J08-U11 INFO: generating core.430
+1118112604 R22-M0-N4-C:J08-U11 INFO: generating core.174
+1118112700 R23-M0-N0-I:J18-U01 INFO: ciod: cpu 0 at treeaddr 438 sent unrecognized message 0xffffffff
+1118114656 R24-M1-N9-C:J15-U01 INFO: generating core.976
+1118122888 R25-M1-N8-C:J06-U01 INFO: generating core.1990
+1118149549 R20-M0-N2-C:J09-U01 INFO: generating core.3638
+1118149569 R21-M0-NB-C:J06-U01 INFO: generating core.2690
+1118149570 R24-M0-NA-C:J15-U11 INFO: generating core.3804
+1118149783 R20-M1-N5-C:J06-U01 INFO: generating core.418
+1118149821 R20-M1-N4-C:J09-U01 INFO: generating core.310
+1118172013 R35-M0-N7-C:J10-U11 INFO: generating core.2409
+1118172017 R35-M1-NE-C:J09-U01 INFO: generating core.4182
+1118172099 R32-M1-N9-C:J11-U11 INFO: generating core.8153
+1118172125 R36-M1-N8-C:J17-U11 INFO: generating core.7836
+1118172147 R35-M0-NC-C:J03-U11 INFO: generating core.2911
+1118172690 R35-M0-N5-C:J10-U11 INFO: generating core.2921
+1118183497 R34-M0-N7-C:J09-U11 INFO: generating core.122
+1118183566 R36-M0-N0-C:J11-U01 INFO: generating core.1973
+1118193358 R11-M0-NC-I:J18-U01 FATAL: ciod: LOGIN chdir(/p/gb2/glosli/8M_5000K/t800) failed: No such file or directory
+1118207879 R17-M1-N7-C:J15-U11 INFO: generating core.4984
+1118207897 R16-M1-NC-C:J06-U11 INFO: generating core.1822
+1118251556 R16-M1-N2-C:J12-U01 INFO: CE sym 28, at 0x110067e0, mask 0x02
+1118271740 R03-M1-N9-C:J09-U11 INFO: 1 ddr errors(s) detected and corrected on rank 0, symbol 25, bit 1
+1118285722 R15-M1-N6-C:J04-U11 INFO: CE sym 14, at 0x06047860, mask 0x20
+1118290076 R27-M0-ND-C:J10-U01 INFO: generating core.3265
+1118290077 R27-M1-N6-C:J04-U01 INFO: generating core.2599
+1118292507 R26-M0-NB-C:J09-U11 INFO: generating core.1818
+1118301090 R21-M1-NA-C:J07-U11 INFO: generating core.1694
+1118343776 R16-M1-N1-C:J12-U01 INFO: generating core.3401
+1118343816 R07-M1-NE-C:J06-U01 INFO: generating core.25350
+1118343958 R23-M1-NA-C:J17-U11 INFO: generating core.1820
+1118351098 R16-M1-N2-C:J17-U01 INFO: CE sym 2, at 0x1b85f080, mask 0x02
+1118354046 R24-M1-N6-C:J07-U11 INFO: generating core.254
+1118354070 R25-M1-N8-C:J05-U11 INFO: generating core.1887
+1118363168 R16-M1-N2-C:J17-U01 INFO: CE sym 2, at 0x1b85fe80, mask 0x02
+1118371043 R11-M0-N7-C:J16-U11 INFO: generating core.8280
+1118371064 R00-M1-N6-C:J12-U01 INFO: generating core.12357
+1118536327 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118536959 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118537212 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118537261 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118537622 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118537694 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118538129 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118538182 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118538836 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118539141 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118539342 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118539682 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118539891 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118540457 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118541065 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118541373 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118541965 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118542012 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118542376 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118543043 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118543085 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118543420 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118543510 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118543547 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118543583 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118543955 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118544072 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118544523 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118544625 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118544942 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118545027 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118545623 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118545700 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118548457 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118548933 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118549132 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118549466 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118549852 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118549971 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118550514 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118550590 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118550729 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118550833 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118551483 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118552349 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118552553 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118552691 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118552811 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118552875 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118553263 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118553888 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118554196 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118554603 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118554838 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118555213 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118555299 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118555531 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118556754 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118557291 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118557583 R30-M0-N9-C:J16-U01 FATAL: data TLB error interrupt
+1118686962 R26-M0-NB-C:J07-U01 INFO: CE sym 10, at 0x08d10580, mask 0x08
+1118699850 R22-M0-NC-I:J18-U01 INFO: ciod: Message code 0 is not 51 or 4294967295
+1118709403 R10-M1-N5-C:J15-U11 FATAL: data storage interrupt
+1118709482 R16-M0-NB-C:J07-U11 FATAL: data storage interrupt
+1118709549 R15-M0-N9-C:J05-U11 FATAL: data storage interrupt
+1118709578 R13-M1-N2-C:J17-U01 FATAL: data storage interrupt
+1118709681 R01-M1-NA-C:J13-U01 FATAL: data storage interrupt
+1118709681 R01-M1-NA-C:J09-U01 FATAL: data storage interrupt
+1118709717 R05-M0-N7-C:J10-U11 FATAL: data storage interrupt
+1118709851 R02-M0-N0-C:J10-U01 FATAL: data storage interrupt
+1118709955 R10-M0-N1-C:J17-U11 FATAL: instruction address: 0x00004ed8
+1118709996 R12-M1-NB-C:J09-U01 FATAL: instruction address: 0x00004ed8
+1118710134 R04-M1-N1-C:J11-U11 FATAL: instruction address: 0x00004ed8
+1118710233 R01-M0-NE-C:J17-U11 FATAL: instruction address: 0x00004ed8
+1118710289 R16-M0-N8-C:J02-U11 FATAL: instruction address: 0x00004ed8
+1118710341 R02-M0-N8-C:J08-U11 FATAL: instruction address: 0x00004ed8
+1118710403 R06-M0-N8-C:J13-U11 FATAL: instruction address: 0x00004ed8
+1118732642 R33-M0-NF-C:J07-U11 INFO: generating core.2522
+1118758243 R36-M0-N0-C:J04-U11 INFO: generating core.1711
+1118758269 R31-M0-NE-C:J15-U11 INFO: generating core.2332
+1118758278 R37-M1-NF-C:J11-U11 INFO: generating core.4505
+1118758308 R32-M0-N3-C:J11-U01 INFO: generating core.1521
+1118765205 R15-M1-NF-C:J11-U11 FATAL: data storage interrupt
+1118765277 R12-M0-N2-C:J11-U01 FATAL: data storage interrupt
+1118765328 R14-M0-N2-C:J02-U01 FATAL: data storage interrupt
+1118765360 R04-M0-ND-C:J15-U01 FATAL: data storage interrupt
+1118765370 R01-M1-N6-C:J15-U11 FATAL: data storage interrupt
+1118765511 R06-M0-N7-C:J08-U01 FATAL: data storage interrupt
+1118765631 R12-M1-NC-C:J13-U11 FATAL: data storage interrupt
+1118765631 R06-M0-N0-C:J11-U11 FATAL: data storage interrupt
+1118765676 R16-M1-N2-C:J07-U01 FATAL: instruction address: 0x00004ed8
+1118765746 R17-M1-N1-C:J12-U11 FATAL: instruction address: 0x00004ed8
+1118765795 R16-M1-N9-C:J16-U11 FATAL: instruction address: 0x00004ed8
+1118765825 R13-M0-NA-C:J15-U01 FATAL: instruction address: 0x00004ed8
+1118765858 R11-M0-N7-C:J10-U01 FATAL: instruction address: 0x00004ed8
+1118766090 R00-M0-N0-C:J13-U11 FATAL: instruction address: 0x00004ed8
+1118766119 R02-M1-NC-C:J08-U11 FATAL: instruction address: 0x00004ed8
+1118766139 R07-M0-NC-C:J10-U01 FATAL: instruction address: 0x00004ed8
+1118766804 R24-M1-N0-C:J16-U01 FATAL: data storage interrupt
+1118766833 R24-M1-ND-C:J11-U11 FATAL: instruction address: 0x00004ed8
+1118766935 R20-M1-NC-C:J05-U01 FATAL: instruction address: 0x00004ed8
+1118767015 R24-M1-N3-C:J16-U01 FATAL: data address: 0x00000002
+1118767049 R25-M1-N3-C:J16-U01 FATAL: data address: 0x00000002
+1118767283 R20-M1-N3-C:J14-U01 FATAL: machine check: i-fetch......................0
+1118767320 R25-M1-N9-C:J06-U11 FATAL: machine check: i-fetch......................0
+1118767381 R20-M0-N2-C:J13-U11 FATAL: program interrupt: illegal instruction......0
+1118767897 R20-M0-NE-C:J02-U01 FATAL: data storage interrupt
+1118767942 R25-M0-NB-C:J02-U11 FATAL: data storage interrupt
+1118767955 R11-M1-N6-C:J12-U01 FATAL: data storage interrupt
+1118767965 R24-M1-N6-C:J13-U01 FATAL: data storage interrupt
+1118768001 R07-M1-N2-C:J05-U11 FATAL: data storage interrupt
+1118768017 R21-M1-NB-C:J12-U01 FATAL: instruction address: 0x00004ed8
+1118768044 R05-M1-NB-C:J07-U11 FATAL: data storage interrupt
+1118768070 R24-M1-N7-C:J08-U01 FATAL: instruction address: 0x00004ed8
+1118768087 R16-M0-N4-C:J02-U11 FATAL: data storage interrupt
+1118768111 R20-M1-N7-C:J16-U01 FATAL: data address: 0x00000002
+1118768121 R03-M1-N8-C:J13-U11 FATAL: data storage interrupt
+1118768158 R25-M0-NF-C:J05-U01 FATAL: data address: 0x00000002
+1118768162 R25-M0-ND-C:J04-U01 FATAL: data address: 0x00000002
+1118768178 R06-M1-NC-C:J11-U01 FATAL: data storage interrupt
+1118768186 R24-M1-N6-C:J11-U01 FATAL: data address: 0x00000002
+1118768357 R25-M0-N3-C:J13-U11 FATAL: machine check: i-fetch......................0
+1118769323 R20-M0-ND-C:J15-U11 FATAL: data storage interrupt
+1118769408 R25-M1-NF-C:J16-U01 FATAL: data storage interrupt
+1118769443 R21-M0-NC-C:J13-U11 FATAL: data storage interrupt
+1118769444 R21-M0-N4-C:J05-U11 FATAL: data storage interrupt
+1118769450 R26-M0-N9-C:J12-U01 FATAL: data address: 0x00000002
+1118769489 R20-M0-N3-C:J06-U01 FATAL: instruction address: 0x00004ed8
+1118769530 R27-M1-NA-C:J16-U11 FATAL: exception syndrome register: 0x00800000
+1118769561 R26-M0-N4-C:J16-U01 FATAL: exception syndrome register: 0x00800000
+1118769562 R26-M0-N0-C:J04-U11 FATAL: exception syndrome register: 0x00800000
+1118769574 R26-M1-NC-C:J13-U11 FATAL: exception syndrome register: 0x00800000
+1118769649 R26-M0-N5-C:J08-U01 FATAL: program interrupt: illegal instruction......0
+1118769697 R26-M0-N0-C:J02-U01 FATAL: program interrupt: illegal instruction......0
+1118769705 R21-M1-N4-C:J10-U01 FATAL: data address: 0x00000002
+1118769811 R25-M1-N3-C:J16-U01 FATAL: exception syndrome register: 0x00800000
+1118769984 R20-M1-N8-C:J08-U11 FATAL: machine check: i-fetch......................0
+1118769991 R26-M0-NA-C:J04-U11 FATAL: data store interrupt caused by dcbf.........0
+1118769993 R20-M0-N4-C:J15-U01 FATAL: machine check: i-fetch......................0
+1118769997 R26-M0-N2-C:J05-U01 FATAL: data store interrupt caused by dcbf.........0
+1118770028 R20-M0-ND-C:J05-U01 FATAL: program interrupt: illegal instruction......0
+1118770101 R21-M1-N6-C:J03-U11 FATAL: program interrupt: illegal instruction......0
+1118770227 R25-M1-N6-C:J15-U11 FATAL: program interrupt: privileged instruction...0
+1118770236 R25-M1-N3-C:J14-U11 FATAL: program interrupt: privileged instruction...0
+1118770309 R20-M1-NB-C:J03-U11 FATAL: program interrupt: trap instruction.........0
+1118770375 R27-M0-N3-C:J15-U01 FATAL: program interrupt: imprecise exception......0
+1118770603 R24-M1-NE-C:J15-U11 FATAL: store operation.............................1
+1118770625 R20-M0-NF-C:J07-U01 FATAL: store operation.............................1
+1118770646 R27-M1-N9-C:J11-U11 FATAL: machine state register: 0x00002000
+1118770918 R24-M0-N5-C:J05-U01 FATAL: data store interrupt caused by icbi.........0
+1118770954 R26-M0-N4-C:J15-U11 FATAL: problem state (0=sup,1=usr).......0
+1118770989 R21-M1-N4-C:J17-U11 FATAL: data store interrupt caused by icbi.........0
+1118771001 R25-M0-N8-C:J16-U11 FATAL: data store interrupt caused by icbi.........0
+1118771001 R26-M1-NF-C:J11-U11 FATAL: floating point instr. enabled.....1
+1118771007 R27-M0-N2-C:J12-U11 FATAL: floating point instr. enabled.....1
+1118771014 R27-M1-NF-C:J03-U11 FATAL: floating point instr. enabled.....1
+1118771075 R24-M0-NF-C:J09-U01 FATAL: auxiliary processor.........................0
+1118771085 R27-M1-ND-C:J09-U01 FATAL: machine check enable..............0
+1118771098 R26-M1-N4-C:J13-U11 FATAL: machine check enable..............0
+1118771115 R26-M0-N5-C:J11-U11 FATAL: floating pt ex mode 0 enable......0
+1118771259 R24-M0-NA-C:J16-U11 FATAL: program interrupt: unimplemented operation..0
+1118771302 R27-M1-N8-C:J09-U11 FATAL: debug interrupt enable............0
+1118771330 R26-M1-N6-C:J05-U01 FATAL: floating pt ex mode 1 enable......0
+1118771384 R21-M1-N6-C:J13-U11 FATAL: byte ordering exception.....................0
+1118771409 R20-M1-N8-C:J15-U11 FATAL: byte ordering exception.....................0
+1118771469 R27-M1-N9-C:J03-U01 FATAL: data address space................0
+1118771475 R26-M1-NA-C:J06-U01 FATAL: data address space................0
+1118771516 R25-M0-N6-C:J14-U11 FATAL: program interrupt: imprecise exception......0
+1118771528 R26-M0-NF-C:J15-U01 FATAL: core configuration register: 0x00002000
+1118771568 R25-M1-N0-C:J07-U11 FATAL: program interrupt: imprecise exception......0
+1118771679 R21-M1-N5-C:J05-U11 FATAL: program interrupt: fp cr update.............0
+1118771823 R26-M1-ND-C:J05-U11 FATAL: guaranteed instruction cache block touch.0
+1118771847 R26-M0-N8-C:J03-U01 FATAL: guaranteed instruction cache block touch.0
+1118771875 R20-M1-NB-C:J11-U11 FATAL: program interrupt: fp cr field .............0
+1118771909 R24-M1-N5-C:J09-U01 FATAL: program interrupt: fp cr field .............0
+1118771917 R24-M0-N2-C:J04-U01 FATAL: program interrupt: fp cr field .............0
+1118771928 R27-M1-N4-C:J05-U11 FATAL: guaranteed data cache block touch........1
+1118771934 R24-M0-ND-C:J02-U11 FATAL: program interrupt: fp cr field .............0
+1118771988 R27-M0-N7-C:J02-U01 FATAL: force load/store alignment...............0
+1118772022 R26-M0-N6-C:J14-U11 FATAL: icache prefetch depth....................0
+1118772057 R24-M0-N2-C:J16-U11 FATAL: machine state register: 0x00002000
+1118772070 R21-M1-N2-C:J10-U11 FATAL: machine state register: 0x00002000
+1118772122 R27-M0-N1-C:J15-U01 FATAL: icache prefetch threshold................0
+1118772122 R27-M0-N1-C:J08-U11 FATAL: icache prefetch threshold................0
+1118772150 R24-M0-NC-C:J12-U11 FATAL: machine state register: 0x00002000
+1118772188 R20-M0-N3-C:J06-U11 FATAL: wait state enable.................0
+1118772337 R24-M0-N7-C:J06-U01 FATAL: critical input interrupt enable...0
+1118772585 R20-M1-N1-C:J10-U01 FATAL: problem state (0=sup,1=usr).......0
+1118772602 R21-M1-NA-C:J07-U01 FATAL: problem state (0=sup,1=usr).......0
+1118772772 R21-M0-NF-C:J09-U01 FATAL: floating point instr. enabled.....1
+1118772810 R27-M0-N9-C:J12-U01 FATAL: special purpose registers:
+1118772877 R27-M1-N3-C:J04-U11 FATAL: lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000
+1118772927 R27-M0-N6-C:J02-U11 FATAL: rts internal error
+1118773031 R21-M0-N2-C:J17-U11 FATAL: floating pt ex mode 0 enable......0
+1118773049 R20-M1-NF-C:J14-U11 FATAL: floating pt ex mode 0 enable......0
+1118773252 R20-M1-N0-C:J10-U01 FATAL: debug wait enable.................0
+1118773424 R25-M0-N2-C:J04-U11 FATAL: floating pt ex mode 1 enable......0
+1118773618 R25-M1-N7-C:J09-U11 FATAL: instruction address space.........0
+1118773741 R21-M0-N9-C:J08-U01 FATAL: data address space................0
+1118773750 R25-M1-NF-C:J16-U11 FATAL: data address space................0
+1118773772 R24-M1-N0-C:J04-U11 FATAL: data address space................0
+1118773807 R20-M1-N5-C:J13-U01 FATAL: core configuration register: 0x00002000
+1118773808 R20-M1-NA-C:J03-U01 FATAL: core configuration register: 0x00002000
+1118773837 R24-M0-NF-C:J08-U01 FATAL: core configuration register: 0x00002000
+1118773839 R21-M0-ND-C:J17-U11 FATAL: core configuration register: 0x00002000
+1118773862 R21-M0-N7-C:J02-U11 FATAL: core configuration register: 0x00002000
+1118773883 R24-M1-N6-C:J17-U01 FATAL: core configuration register: 0x00002000
+1118773941 R20-M1-NA-C:J04-U01 FATAL: disable store gathering..................0
+1118774011 R24-M0-NA-C:J14-U01 FATAL: disable store gathering..................0
+1118774042 R25-M1-N8-C:J03-U11 FATAL: disable store gathering..................0
+1118783531 R22-M0-N7-C:J08-U11 INFO: generating core.42
+1118784453 R07-M0-N6-C:J11-U01 INFO: total of 1 ddr error(s) detected and corrected
+1118795802 R23-M0-ND-C:J13-U01 INFO: generating core.145
+1118809915 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118810502 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118811100 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118811393 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118812716 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118813039 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118843835 R21-M1-N1-C:J07-U11 INFO: generating core.1978
+1118843857 R25-M1-N1-C:J15-U11 INFO: generating core.2040
+1118846432 R22-M0-NE-C:J04-U11 INFO: generating core.15
+1118852240 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118852544 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118852625 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118852660 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118852703 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118852706 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118852913 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118853076 R34-M1-N9-C:J07-U11 INFO: generating core.16218
+1118860111 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1118908990 R02-M1-N1-C:J12-U01 INFO: instruction cache parity error corrected
+1118911762 R34-M0-NF-C:J03-U01 INFO: generating core.8531
+1118911785 R27-M1-ND-C:J11-U01 INFO: generating core.2961
+1118911796 R04-M1-N8-C:J09-U11 INFO: generating core.15966
+1118915888 R20-M1-N7-C:J08-U11 INFO: generating core.42
+1118915889 R24-M1-NE-C:J13-U11 INFO: generating core.93
+1118916047 R21-M1-N4-C:J12-U11 INFO: generating core.2605
+1118916053 R27-M0-N8-C:J11-U01 INFO: generating core.6037
+1118916060 R24-M1-N4-C:J07-U01 INFO: generating core.886
+1118916076 R23-M1-N4-C:J10-U11 INFO: generating core.3053
+1118916076 R23-M1-N4-C:J08-U01 INFO: generating core.2790
+1118958902 R32-M1-N8-I:J18-U01 FATAL: ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:51706
+1118964552 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1119055358 R12-M1-NB-C:J15-U01 INFO: generating core.1488
+1119103692 R16-M1-N2-C:J17-U01 INFO: CE sym 2, at 0x0b85f680, mask 0x0e
+1119151510 R36-M0-NF-C:J13-U01 INFO: generating core.2186
+1119166454 R04-M0-N9-C:J07-U01 INFO: generating core.978
+1119166473 R05-M1-N3-C:J15-U11 INFO: generating core.2808
+1119166494 R01-M1-N4-C:J07-U01 INFO: generating core.2486
+1119290966 R16-M1-N6-C:J08-U01 INFO: generating core.334
+1119291000 R17-M1-ND-C:J12-U11 INFO: generating core.5401
+1119291039 R00-M1-N3-C:J08-U11 INFO: generating core.14418
+1119291044 R12-M1-N2-C:J09-U11 INFO: generating core.2558
+1119291099 R11-M0-ND-C:J11-U11 INFO: generating core.9785
+1119291235 R01-M0-NE-C:J06-U01 INFO: generating core.4614
+1119291291 R13-M1-N8-C:J05-U11 INFO: generating core.7615
+1119291293 R10-M0-N8-C:J03-U11 INFO: generating core.15935
+1119309833 R14-M1-N0-I:J18-U01 FATAL: ciod: Error loading /home/draeger/testQboxhang-nozerobytebug-nosleepyescomm: invalid or missing program image, No such file or directory
+1119319455 R12-M1-NC-I:J18-U11 FATAL: ciod: Error creating node map from file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map: No child processes
+1119324666 R16-M1-N2-C:J17-U01 INFO: CE sym 0, at 0x1b858280, mask 0x40
+1119377678 R20-M0-N9-C:J11-U11 INFO: generating core.8089
+1119377680 R20-M1-N2-C:J17-U01 INFO: generating core.4660
+1119377709 R24-M1-NB-C:J11-U01 INFO: generating core.721
+1119377756 R21-M1-N6-C:J02-U01 INFO: generating core.5287
+1119377784 R20-M1-N8-C:J04-U11 INFO: generating core.783
+1119381883 R05-M1-N8-C:J13-U01 INFO: 1 ddr errors(s) detected and corrected on rank 0, symbol 17, bit 1
+1119383898 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1119402454 R22-M0-N4-I:J18-U11 FATAL: ciod: Error loading ./runtime_malloc: invalid or missing program image, No such file or directory
+1119450937 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1119475796 R22-M0-NA-C:J02-U11 INFO: 199680 double-hummer alignment exceptions
+1119478812 R20-M0-N3-C:J14-U01 INFO: 1969920 double-hummer alignment exceptions
+1119479310 R20-M0-N6-C:J03-U01 INFO: 2576000 double-hummer alignment exceptions
+1119479317 R21-M1-N1-C:J08-U11 INFO: 2576000 double-hummer alignment exceptions
+1119481305 R22-M1-NA-C:J04-U11 INFO: 6182400 double-hummer alignment exceptions
+1119545636 R23-M1-N7-C:J02-U01 INFO: 6182400 double-hummer alignment exceptions
+1119569236 R22-M0-N6-C:J12-U11 INFO: 6182400 double-hummer alignment exceptions
+1119571364 R23-M1-N7-C:J14-U01 INFO: 3091200 double-hummer alignment exceptions
+1119571369 R23-M1-ND-C:J02-U01 INFO: 3091200 double-hummer alignment exceptions
+1119572030 R23-M1-N8-C:J06-U01 INFO: 3091200 double-hummer alignment exceptions
+1119625799 R03-M0-NB-C:J10-U11 INFO: CE sym 12, at 0x1b786f60, mask 0x04
+1119638161 R16-M1-N2-C:J17-U01 INFO: CE sym 0, at 0x1b8584e0, mask 0x80
+1119677904 R36-M0-N5-C:J03-U01 INFO: CE sym 23, at 0x03f89c00, mask 0x10
+1119693767 R22-M0-NF-C:J02-U01 INFO: 23431872 double-hummer alignment exceptions
+1119695647 R31-M1-ND-C:J05-U01 INFO: 259966605 double-hummer alignment exceptions
+1119695690 R35-M0-NF-C:J11-U11 INFO: 255244071 double-hummer alignment exceptions
+1119695755 R32-M0-N4-C:J02-U01 INFO: 259822751 double-hummer alignment exceptions
+1119714915 R30-M1-N7-C:J12-U01 INFO: generating core.24721
+1119714992 R20-M1-NB-C:J17-U01 INFO: generating core.4184
+1119715100 R26-M0-N6-C:J13-U11 INFO: generating core.58109
+1119715124 R27-M1-N7-C:J10-U01 INFO: generating core.9881
+1119715242 R21-M0-ND-C:J03-U11 INFO: generating core.19579
+1119715309 R34-M0-N2-C:J12-U01 INFO: generating core.4501
+1119715342 R31-M1-NE-C:J06-U11 INFO: generating core.50230
+1119715346 R30-M1-NA-C:J14-U11 INFO: generating core.62516
+1119715392 R34-M1-ND-C:J10-U01 INFO: generating core.27921
+1119715413 R25-M0-N6-C:J08-U11 INFO: generating core.16830
+1119715453 R21-M1-N7-C:J10-U01 INFO: generating core.9369
+1119715567 R23-M1-N6-C:J14-U01 INFO: generating core.10140
+1119715593 R32-M0-NA-C:J13-U11 INFO: generating core.37749
+1119715602 R35-M0-N6-C:J06-U11 INFO: generating core.9654
+1119715612 R23-M0-N9-C:J05-U01 INFO: generating core.56155
+1119715625 R24-M1-N9-C:J06-U11 INFO: generating core.40250
+1119715819 R15-M1-NB-C:J12-U11 INFO: generating core.45353
+1119715834 R15-M1-NF-C:J07-U11 INFO: generating core.9578
+1119715845 R17-M1-N9-C:J16-U01 INFO: generating core.14856
+1119715908 R00-M1-NA-C:J14-U01 INFO: generating core.62468
+1119715922 R16-M1-NA-C:J02-U01 INFO: generating core.38415
+1119715980 R00-M0-N1-C:J09-U11 INFO: generating core.39138
+1119725008 R21-M1-N5-C:J08-U01 INFO: generating core.10394
+1119725040 R05-M0-N7-C:J04-U01 INFO: generating core.41347
+1119725071 R04-M0-N1-C:J03-U01 INFO: generating core.7619
+1119725148 R31-M1-N2-C:J07-U01 INFO: generating core.54486
+1119725160 R33-M1-N2-C:J10-U01 INFO: generating core.22421
+1119725245 R33-M1-NE-C:J11-U01 INFO: generating core.18261
+1119725280 R20-M0-N7-C:J15-U11 INFO: generating core.58616
+1119725305 R27-M1-N9-C:J17-U11 INFO: generating core.47736
+1119725352 R24-M0-N7-C:J17-U01 INFO: generating core.25048
+1119725352 R24-M0-N7-C:J10-U01 INFO: generating core.58777
+1119725476 R33-M0-N1-C:J11-U11 INFO: generating core.49137
+1119725489 R27-M1-NF-C:J10-U11 INFO: generating core.42553
+1119726280 R10-M1-NA-C:J13-U11 INFO: generating core.2109
+1119726375 R14-M1-N6-C:J06-U01 INFO: generating core.718
+1119726549 R01-M1-NB-C:J14-U01 INFO: generating core.10752
+1119726634 R06-M0-N7-C:J04-U01 INFO: generating core.323
+1119736307 R01-M1-N8-I:J18-U11 FATAL: ciod: Error loading /home/glosli/src/ddcMD/ddcMD/1.1.13/ddcMDbglV: invalid or missing program image, No such file or directory
+1119799504 R01-M1-ND-C:J15-U11 INFO: CE sym 5, at 0x11042a80, mask 0x04
+1119801659 R02-M1-N0-C:J12-U11 INFO: instruction cache parity error corrected
+1119802755 R03-M0-N9-C:J09-U01 INFO: generating core.21112
+1119802781 R07-M1-N0-C:J15-U11 INFO: program interrupt
+1119802848 R36-M1-NC-C:J06-U11 INFO: generating core.28370
+1119803084 R36-M0-ND-C:J13-U11 INFO: program interrupt: illegal instruction......1
+1119803149 R01-M1-N0-C:J04-U11 INFO: program interrupt: illegal instruction......1
+1119803207 R05-M1-N9-C:J14-U11 INFO: program interrupt: privileged instruction...0
+1119803468 R36-M1-ND-C:J16-U11 INFO: data store interrupt caused by dcbf.........0
+1119803528 R05-M0-NE-C:J05-U01 INFO: data store interrupt caused by icbi.........0
+1119803550 R35-M0-NB-C:J16-U01 INFO: data store interrupt caused by icbi.........0
+1119803599 R01-M0-N2-C:J08-U01 INFO: auxiliary processor.........................0
+1119803602 R00-M0-NB-C:J09-U01 INFO: auxiliary processor.........................0
+1119803608 R06-M0-NE-C:J12-U11 INFO: auxiliary processor.........................0
+1119803693 R00-M1-N3-C:J11-U01 INFO: program interrupt: unimplemented operation..0
+1119803805 R36-M0-N9-C:J12-U01 INFO: program interrupt: imprecise exception......0
+1119803856 R02-M1-N4-C:J12-U01 INFO: program interrupt: imprecise exception......0
+1119806904 R05-M0-N3-C:J11-U11 INFO: generating core.14700
+1119806939 R05-M0-N7-C:J13-U01 INFO: program interrupt
+1119806955 R03-M1-NC-C:J05-U11 INFO: program interrupt
+1119806971 R05-M1-N8-C:J15-U11 INFO: instruction address: 0x0062fe04
+1119807051 R05-M0-N6-C:J06-U11 INFO: exception syndrome register: 0x08000000
+1119807165 R00-M0-N4-C:J02-U01 INFO: program interrupt: illegal instruction......1
+1119807218 R35-M1-NF-C:J15-U01 INFO: program interrupt: privileged instruction...0
+1119807482 R05-M0-N5-C:J09-U11 INFO: data store interrupt caused by dcbf.........0
+1119807491 R02-M0-N9-C:J06-U01 INFO: data store interrupt caused by dcbf.........0
+1119807588 R33-M1-N3-C:J16-U11 INFO: auxiliary processor.........................0
+1119859191 R16-M1-N2-C:J17-U01 INFO: CE sym 0, at 0x1b8594e0, mask 0x40
+1119977619 R02-M1-NE WARNING: Node card is not fully functional
+1119989828 R26-M0-NB-C:J07-U01 INFO: CE sym 10, at 0x08e70580, mask 0x08
+1120091427 R05-M1-N3-C:J03-U11 INFO: generating core.1786
+1120091562 R37-M0-NA-C:J15-U01 INFO: generating core.26918
+1120091766 R32-M1-ND-C:J04-U01 INFO: generating core.10125
+1120091839 R15-M1-NB-C:J16-U01 INFO: generating core.4230
+1120091979 R04-M0-N9-C:J15-U11 INFO: generating core.179
+1120092016 R05-M1-ND-C:J06-U11 INFO: generating core.1177
+1120092072 R23-M1-NC-C:J05-U11 INFO: generating core.32693
+1120092194 R12-M0-N0-C:J13-U01 INFO: generating core.7151
+1120092215 R16-M0-N0-C:J13-U01 INFO: generating core.7023
+1120093988 R36-M1-N1-C:J05-U01 INFO: 344040 double-hummer alignment exceptions
+1120094424 R10-M0-N9-C:J05-U01 INFO: 344040 double-hummer alignment exceptions
+1120094724 R03-M0-N2-C:J02-U01 INFO: 344040 double-hummer alignment exceptions
+1120145091 R26-M0-NA-C:J17-U11 INFO: generating core.29308
+1120145216 R26-M1-ND-C:J08-U01 INFO: generating core.2586
+1120145227 R22-M1-N3-C:J14-U01 INFO: generating core.6040
+1120145530 R17-M0-NF-C:J16-U01 INFO: generating core.16904
+1120145605 R16-M0-NF-C:J07-U01 INFO: generating core.26186
+1120145611 R16-M0-NE-C:J14-U11 INFO: generating core.26156
+1120145615 R00-M0-ND-C:J17-U01 INFO: generating core.2112
+1120145688 R11-M0-N9-C:J03-U11 INFO: generating core.23659
+1120145763 R06-M0-NE-C:J11-U01 INFO: generating core.1605
+1120145774 R01-M1-NF-C:J05-U11 INFO: generating core.16483
+1120145915 R04-M0-NF-C:J12-U01 INFO: generating core.257
+1120146038 R25-M0-NC-C:J04-U11 INFO: generating core.18751
+1120146042 R21-M0-N0-C:J05-U11 INFO: generating core.22783
+1120146085 R32-M0-N8-C:J11-U01 INFO: generating core.8021
+1120146112 R15-M1-N4-C:J09-U11 INFO: generating core.10734
+1120148315 R00-M1-NA-C:J13-U11 INFO: generating core.3613
+1120148424 R06-M1-N2-C:J15-U11 INFO: generating core.1916
+1120148578 R17-M0-NE-C:J09-U01 INFO: generating core.4246
+1120148687 R14-M0-N1-C:J12-U01 INFO: generating core.7777
+1120148743 R11-M0-N0-C:J02-U11 INFO: generating core.5935
+1120148771 R33-M1-N7-C:J05-U11 INFO: generating core.8691
+1120149021 R23-M1-ND-C:J16-U01 INFO: generating core.5512
+1120150857 R05-M0-N7-C:J04-U01 INFO: generating core.1123
+1120150859 R05-M0-N3-C:J12-U11 INFO: generating core.1641
+1120155328 R16-M1-N2-C:J17-U01 INFO: CE sym 0, at 0x1b858ca0, mask 0x40
+1120173883 R36-M1-N4-I:J18-U01 FATAL: ciod: Error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: Bad file descriptor
+1120177846 R16-M1-N2-C:J17-U01 INFO: CE sym 0, at 0x1b858280, mask 0x40
+1120201391 R01-M1-ND-C:J03-U01 INFO: CE sym 22, at 0x049af800, mask 0x02
+1120209808 R07-M1-NC-C:J12-U11 INFO: generating core.1165
+1120216069 R21-M1-N8-C:J05-U11 INFO: generating core.23615
+1120216139 R36-M0-N7-C:J11-U01 INFO: generating core.865
+1120216148 R20-M1-N5-C:J06-U11 INFO: generating core.1626
+1120216152 R34-M0-N7-C:J08-U11 INFO: generating core.16594
+1120216232 R26-M0-N5-C:J07-U11 INFO: generating core.30586
+1120216240 R20-M1-N2-C:J17-U01 INFO: generating core.18540
+1120216246 R31-M1-N5-C:J11-U01 INFO: generating core.9825
+1120216290 R21-M1-NB-C:J07-U01 INFO: generating core.6698
+1120216479 R23-M1-NE-C:J13-U01 INFO: generating core.4525
+1120216591 R33-M1-N8-C:J17-U11 INFO: generating core.28084
+1120216621 R23-M1-NC-C:J14-U01 INFO: generating core.6028
+1120216963 R10-M1-ND-C:J17-U11 INFO: generating core.536
+1120216974 R10-M0-N2-C:J02-U01 INFO: generating core.15655
+1120217012 R16-M1-N6-C:J15-U01 INFO: generating core.8628
+1120217049 R15-M1-N9-C:J07-U11 INFO: generating core.12122
+1120217052 R17-M1-N7-C:J08-U01 INFO: generating core.2210
+1120217064 R15-M1-NF-C:J16-U11 INFO: generating core.10312
+1120217117 R12-M1-N6-C:J16-U01 INFO: generating core.228
+1120217126 R14-M1-NE-C:J14-U11 INFO: generating core.332
+1120217169 R14-M0-N2-C:J15-U11 INFO: generating core.15740
+1120217184 R11-M1-N2-C:J11-U11 INFO: generating core.3389
+1120231520 UNKNOWN_LOCATION INFO: Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005
+1120241131 R37-M1-N4 SEVERE: Can not get assembly information for node card
+1120259710 R33-M1-N2-C:J17-U11 INFO: 1146800 double-hummer alignment exceptions
+1120259762 R37-M0-NE-C:J10-U01 INFO: 1146800 double-hummer alignment exceptions
+1120259871 R33-M0-N6-C:J07-U01 INFO: 1146800 double-hummer alignment exceptions
+1120259888 R25-M0-N7-C:J11-U01 INFO: 1146800 double-hummer alignment exceptions
+1120259941 R25-M1-N2-C:J08-U01 INFO: 1146800 double-hummer alignment exceptions
+1120260065 R27-M1-N8-C:J17-U01 INFO: 1146800 double-hummer alignment exceptions
+1120260098 R33-M0-N8-C:J07-U01 INFO: 1146800 double-hummer alignment exceptions
+1120260870 R20-M0-N5-C:J15-U01 INFO: 1146800 double-hummer alignment exceptions
+1120260976 R30-M1-NE-C:J02-U01 INFO: 1146800 double-hummer alignment exceptions
+1120261034 R23-M0-N1-C:J02-U11 INFO: 1146800 double-hummer alignment exceptions
+1120262099 R24-M1-NB-C:J14-U11 INFO: 1146800 double-hummer alignment exceptions
+1120262185 R35-M1-N7-C:J04-U01 INFO: 1146800 double-hummer alignment exceptions
+1120262310 R32-M1-ND-C:J11-U11 INFO: 1146800 double-hummer alignment exceptions
+1120262314 R32-M1-NB-C:J04-U11 INFO: 1146800 double-hummer alignment exceptions
+1120262332 R36-M0-N4-C:J15-U01 INFO: 1146800 double-hummer alignment exceptions
+1120262354 R24-M1-NC-C:J07-U11 INFO: 1146800 double-hummer alignment exceptions
+1120263044 R36-M0-N5-C:J16-U11 INFO: 1146800 double-hummer alignment exceptions
+1120263061 R31-M1-N2-C:J14-U01 INFO: 1146800 double-hummer alignment exceptions
+1120263168 R24-M0-N3-C:J09-U01 INFO: 1146800 double-hummer alignment exceptions
+1120263355 R35-M0-N6-C:J17-U11 INFO: 1146800 double-hummer alignment exceptions
+1120265452 R33-M1-NE-C:J11-U01 INFO: 458720 double-hummer alignment exceptions
+1120265503 R24-M1-NB-C:J06-U01 INFO: 458720 double-hummer alignment exceptions
+1120265529 R27-M1-N2-C:J03-U01 INFO: 458720 double-hummer alignment exceptions
+1120265540 R24-M1-NA-C:J14-U01 INFO: 458720 double-hummer alignment exceptions
+1120265568 R34-M0-N9-C:J08-U01 INFO: 458720 double-hummer alignment exceptions
+1120265591 R30-M1-NB-C:J17-U11 INFO: 458720 double-hummer alignment exceptions
+1120265616 R35-M1-N1-C:J09-U01 INFO: 458720 double-hummer alignment exceptions
+1120265656 R23-M0-N6-C:J11-U01 INFO: 458720 double-hummer alignment exceptions
+1120266813 R21-M0-ND-C:J07-U11 INFO: 1146800 double-hummer alignment exceptions
+1120266847 R33-M0-N2-C:J10-U01 INFO: 1146800 double-hummer alignment exceptions
+1120266866 R30-M1-N9-C:J08-U11 INFO: 1146800 double-hummer alignment exceptions
+1120266887 R35-M1-N5-C:J04-U01 INFO: 1146800 double-hummer alignment exceptions
+1120266925 R25-M1-N2-C:J10-U01 INFO: 1146800 double-hummer alignment exceptions
+1120266974 R32-M0-NF-C:J17-U11 INFO: 1146800 double-hummer alignment exceptions
+1120267083 R33-M0-N8-C:J10-U11 INFO: 1146800 double-hummer alignment exceptions
+1120351622 R05-M0-NF-C:J09-U11 INFO: generating core.1114
+1120351629 R04-M0-N9-C:J17-U01 INFO: generating core.848
+1120351671 R05-M1-NE-C:J12-U01 INFO: generating core.2117
+1120351682 R04-M1-NE-C:J11-U11 INFO: generating core.3293
+1120351719 R05-M0-NC-C:J04-U01 INFO: generating core.1351
+1120446972 R36-M0-N6-C:J06-U01 INFO: generating core.17222
+1120446979 R22-M1-N9-C:J15-U01 INFO: generating core.20392
+1120447005 R26-M0-NA-C:J08-U11 INFO: generating core.31006
+1120447017 R20-M1-N1-C:J15-U11 INFO: generating core.20088
+1120447042 R37-M1-N3-C:J13-U11 INFO: generating core.26993
+1120447058 R23-M1-N7-C:J08-U11 INFO: generating core.20954
+1120447377 R23-M1-N5-C:J03-U11 INFO: generating core.6139
+1120447387 R23-M0-N5-C:J10-U01 INFO: generating core.10185
+1120447451 R32-M1-N5-C:J16-U11 INFO: generating core.13776
+1120447561 R24-M1-N8-C:J16-U01 INFO: generating core.19596
+1120447592 R34-M1-N0-C:J12-U01 INFO: generating core.15557
+1120449671 R31-M0-N7-C:J13-U01 INFO: generating core.4193
+1120449678 R37-M0-N1-C:J05-U11 INFO: generating core.7539
+1120449800 R21-M1-ND-C:J14-U01 INFO: generating core.22024
+1120449840 R27-M1-N3-C:J13-U11 INFO: generating core.22905
+1120449964 R21-M0-N6-C:J04-U11 INFO: generating core.24671
+1120450102 R22-M1-NC-C:J13-U11 INFO: generating core.17853
+1120469475 R33-M1-N7-C:J15-U01 INFO: generating core.25568
+1120469605 R21-M1-NB-C:J15-U01 INFO: generating core.23080
+1120469660 R21-M0-ND-C:J02-U01 INFO: generating core.9739
+1120469698 R31-M0-N9-C:J04-U11 INFO: generating core.7187
+1120469722 R23-M1-NA-C:J06-U01 INFO: generating core.23438
+1120469778 R25-M1-N1-C:J10-U01 INFO: generating core.7881
+1120486467 R10-M1-N1-C:J09-U01 INFO: generating core.9778
+1120486586 R12-M0-N1-C:J04-U11 INFO: generating core.7915
+1120486728 R17-M1-N4-C:J07-U11 INFO: generating core.3006
+1120487288 R36-M1-NB-C:J05-U01 INFO: generating core.14627
+1120487397 R26-M1-NA-C:J17-U01 INFO: generating core.2348
+1120487464 R34-M0-N7-C:J09-U01 INFO: generating core.226
+1120487466 R34-M0-N5-C:J04-U01 INFO: generating core.1219
+1120487503 R25-M0-NE-C:J11-U01 INFO: generating core.8877
+1120487708 R34-M1-N4-C:J09-U11 INFO: generating core.13558
+1120487796 R02-M1-N8-C:J17-U01 INFO: generating core.404
+1120591331 R32-M0-N4-I:J18-U01 INFO: ciod: Missing or invalid fields on line 1 of node map file /home/auselton/bgl/64mps.sequential.mapfile
+1120658382 R27-M1-N1-C:J02-U11 INFO: 1 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected
+1120746917 R07-M0-N6-C:J03-U01 INFO: generating core.631
+1120746970 R07-M0-N0-C:J06-U01 INFO: generating core.998
+1120748233 R07-M1-N7-C:J10-U11 INFO: generating core.1129
+1120748250 R06-M0-N1-C:J16-U11 INFO: generating core.424
+1120772478 R01-M0-N6-C:J11-U11 INFO: generating core.1213
+1120772499 R01-M0-ND-C:J11-U11 INFO: generating core.1433
+1120772538 R01-M1-N8-C:J06-U01 INFO: generating core.2950
+1120772792 R00-M0-N4-C:J05-U11 INFO: generating core.319
+1120772793 R00-M0-N4-C:J04-U11 INFO: generating core.303
+1120772805 R05-M0-N8-C:J06-U11 INFO: generating core.1998
+1120776001 R26-M0-N5-C:J12-U01 INFO: 632431728 double-hummer alignment exceptions
+1120776057 R37-M0-NF-C:J17-U11 INFO: 634368144 double-hummer alignment exceptions
+1120776186 R24-M0-NE-C:J03-U11 INFO: 632254896 double-hummer alignment exceptions
+1120776206 R20-M0-N5-C:J16-U01 INFO: 633283776 double-hummer alignment exceptions
+1120786826 R12-M1-NF-C:J13-U01 INFO: generating core.841
+1120786879 R12-M1-NE-C:J04-U11 INFO: generating core.815
+1120786954 R04-M1-N7-C:J08-U11 INFO: generating core.57762
+1120787008 R14-M1-NC-C:J15-U11 INFO: generating core.3436
+1120788451 R34-M0-N3-C:J17-U11 INFO: generating core.4592
+1120788495 R30-M0-N6-C:J12-U01 INFO: generating core.149
+1120788544 R10-M0-NB-C:J02-U11 INFO: generating core.62507
+1120788590 R12-M1-NE-C:J02-U01 INFO: generating core.1807
+1120889703 R05-M0-N2 WARNING: Node card is not fully functional
+1120908821 R20-M0-N8-I:J18-U01 INFO: ciod: duplicate canonical-rank 31 to logical-rank 0 mapping at line 3 of node map file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map
+1120909906 R16-M1-NC-I:J18-U11 FATAL: ciod: Error creating node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map: Block device required
+1120917279 R16-M1-N2-C:J15-U01 INFO: generating core.9652
+1120917299 R17-M1-ND-C:J07-U01 INFO: generating core.11154
+1120923499 R33-M0-N9-C:J04-U11 INFO: generating core.7571
+1120923521 R20-M0-N6-C:J16-U01 INFO: generating core.12364
+1120924431 R22-M0-N5-C:J13-U11 INFO: generating core.13817
+1120924519 R20-M0-NA-C:J12-U01 INFO: generating core.14349
+1120924566 R35-M1-N7-C:J10-U01 INFO: generating core.8897
+1120928196 R27-M1-N9-C:J06-U01 INFO: generating core.7946
+1120928280 R21-M0-NB-C:J05-U11 INFO: generating core.10299
+1120928332 R25-M0-N4-C:J10-U11 INFO: generating core.9949
+1120928349 R25-M0-N0-C:J15-U01 INFO: generating core.12012
+1120929103 R14-M1-ND-C:J03-U11 INFO: generating core.9051
+1120929257 R14-M0-N9-C:J16-U11 INFO: generating core.7752
+1120929262 R11-M1-N5-C:J12-U11 INFO: generating core.10793
+1120931195 R20-M0-NE-C:J05-U01 INFO: generating core.24671
+1120931199 R31-M0-NF-C:J04-U01 INFO: generating core.40979
+1120931244 R37-M1-N7-C:J11-U01 INFO: generating core.18129
+1120931305 R27-M1-N9-C:J09-U11 INFO: generating core.47738
+1120931338 R21-M1-NE-C:J11-U11 INFO: generating core.42109
+1120931379 R26-M1-N9-C:J08-U01 INFO: generating core.6682
+1120931429 R24-M1-N1-C:J15-U11 INFO: generating core.7672
+1120931465 R31-M0-N9-C:J08-U01 INFO: generating core.47122
+1120931504 R31-M1-NE-C:J11-U01 INFO: generating core.17493
+1120932365 R31-M1-N9-C:J15-U11 INFO: generating core.23664
+1120932577 R03-M1-ND-C:J17-U11 INFO: generating core.19296
+1120932589 R24-M1-N1-C:J12-U01 INFO: generating core.6553
+1120932594 R01-M1-N9-C:J14-U01 INFO: generating core.56320
+1120932606 R36-M0-N5-C:J15-U11 INFO: generating core.3824
+1120932622 R36-M0-N2-C:J10-U01 INFO: generating core.5781
+1120932658 R33-M1-N2-C:J02-U01 INFO: generating core.55191
+1120932709 R20-M1-N2-C:J10-U11 INFO: generating core.38077
+1120932758 R37-M0-NE-C:J13-U01 INFO: generating core.41557
+1120932797 R26-M1-N5-C:J02-U11 INFO: generating core.36539
+1120933688 R27-M0-N4-C:J16-U11 INFO: generating core.51900
+1120933818 R20-M1-N7-C:J09-U11 INFO: generating core.33018
+1120933839 R26-M0-N3-C:J13-U11 INFO: generating core.29433
+1120934002 R24-M1-N5-C:J14-U01 INFO: generating core.36248
+1120934069 R21-M1-NF-C:J17-U11 INFO: generating core.41080
+1120934108 R36-M1-NE-C:J08-U01 INFO: generating core.57878
+1120934392 R30-M0-N6-C:J13-U11 INFO: generating core.245
+1120934665 R14-M1-ND-C:J04-U01 INFO: generating core.2315
+1120934747 R12-M0-N3-C:J02-U01 INFO: generating core.30603
+1120934788 R11-M0-NE-C:J11-U11 INFO: generating core.17517
+1120934845 R16-M1-ND-C:J13-U01 INFO: generating core.2633
+1120934940 R01-M1-NF-C:J15-U01 INFO: generating core.50240
+1120934979 R03-M0-N7-C:J03-U11 INFO: generating core.10211
+1120935001 R06-M1-NE-C:J04-U01 INFO: generating core.57863
+1120935040 R07-M1-ND-C:J17-U11 INFO: generating core.51808
+1120935068 R06-M1-ND-C:J04-U01 INFO: generating core.59907
+1120935076 R02-M1-NE-C:J08-U11 INFO: generating core.25382
+1120935133 R05-M0-N6-C:J09-U01 INFO: generating core.8646
+1120935238 R22-M1-N0-C:J05-U11 INFO: generating core.7167
+1120935334 R21-M1-N0-C:J13-U11 INFO: generating core.14589
+1120935388 R20-M1-N4-C:J17-U11 INFO: generating core.2300
+1120935398 R25-M1-N8-C:J16-U11 INFO: generating core.14652
+1120935446 R35-M0-N0-C:J05-U01 INFO: generating core.14807
+1120935483 R10-M0-N8-C:J06-U01 INFO: generating core.31758
+1120935590 R00-M0-N8-C:J10-U11 INFO: generating core.7205
+1120935660 R01-M0-NC-C:J04-U01 INFO: generating core.10247
+1120937467 R36-M1-NA-C:J06-U01 INFO: generating core.30230
+1120937630 R20-M1-N5-C:J05-U11 INFO: generating core.2299
+1120937817 R22-M0-N5-C:J07-U11 INFO: generating core.28666
+1120937836 R34-M0-N5-C:J12-U11 INFO: generating core.2481
+1120938039 R21-M0-N5-C:J14-U01 INFO: generating core.52376
+1120938041 R37-M0-N5-C:J08-U11 INFO: generating core.10930
+1120938043 R23-M0-N6-C:J06-U11 INFO: generating core.51134
+1120938048 R30-M0-NB-C:J03-U11 INFO: generating core.5235
+1120938093 R27-M0-N7-C:J10-U01 INFO: generating core.50841
+1120938234 R35-M0-N9-C:J10-U11 INFO: generating core.48433
+1120938246 R10-M1-N5-C:J04-U01 INFO: generating core.34955
+1120938346 R15-M1-NB-C:J15-U01 INFO: generating core.46408
+1120938410 R00-M0-ND-C:J14-U11 INFO: generating core.35872
+1120938420 R00-M0-N6-C:J12-U01 INFO: generating core.133
+1120938451 R16-M1-NA-C:J08-U01 INFO: generating core.4622
+1120938541 R12-M0-N6-C:J05-U11 INFO: generating core.58351
+1120938585 R03-M0-N6-C:J09-U01 INFO: generating core.9158
+1120938606 R13-M0-NB-C:J15-U11 INFO: generating core.22376
+1120938631 R11-M1-NB-C:J12-U11 INFO: generating core.12329
+1120938674 R02-M0-N5-C:J03-U01 INFO: generating core.4035
+1120938682 R01-M0-N9-C:J03-U11 INFO: generating core.15459
+1120939508 R21-M0-N9-C:J17-U01 INFO: generating core.55384
+1120939518 R20-M1-N2-C:J07-U01 INFO: generating core.5342
+1120939553 R25-M1-N2-C:J03-U01 INFO: generating core.46559
+1120939573 R00-M1-NE-C:J14-U01 INFO: generating core.25604
+1120939626 R36-M1-N4-C:J15-U11 INFO: generating core.61172
+1120939761 R36-M1-N6-C:J04-U11 INFO: generating core.25271
+1120939783 R20-M1-N6-C:J03-U01 INFO: generating core.34015
+1120939798 R26-M0-NA-C:J07-U01 INFO: generating core.63070
+1120939974 R24-M0-N1-C:J17-U01 INFO: generating core.31192
+1120940044 R24-M1-N1-C:J14-U01 INFO: generating core.40344
+1120940045 R22-M0-N2-C:J09-U11 INFO: generating core.62462
+1120940057 R36-M0-N9-C:J15-U01 INFO: generating core.40528
+1120940204 R21-M1-N7-C:J07-U11 INFO: generating core.42234
+1120940220 R27-M0-N1-C:J05-U01 INFO: generating core.23259
+1120940220 R27-M0-N1-C:J07-U11 INFO: generating core.24314
+1120940284 R30-M0-NA-C:J17-U01 INFO: generating core.4180
+1120940300 R23-M0-N1-C:J07-U01 INFO: generating core.24538
+1120940346 R24-M0-N6-C:J07-U01 INFO: generating core.26078
+1120940349 R32-M1-N3-C:J07-U11 INFO: generating core.30706
+1120940357 R32-M0-N1-C:J03-U01 INFO: generating core.8147
+1120940402 R10-M0-NE-C:J04-U11 INFO: generating core.57391
+1120940548 R17-M1-ND-C:J14-U01 INFO: generating core.11784
+1120940599 R16-M0-NB-C:J04-U01 INFO: generating core.61963
+1120940618 R14-M1-N7-C:J04-U01 INFO: generating core.33163
+1120940634 R06-M1-NB-C:J03-U01 INFO: generating core.30275
+1120940659 R15-M1-N1-C:J10-U01 INFO: generating core.15753
+1120940700 R00-M0-N1-C:J07-U01 INFO: generating core.7362
+1120953127 R27-M0-N6-C:J05-U11 INFO: generating core.8575
+1120953142 R21-M0-ND-C:J15-U11 INFO: generating core.9784
+1120953217 R35-M1-N9-C:J10-U11 INFO: generating core.11921
+1120953260 R31-M1-N0-C:J03-U01 INFO: generating core.11879
+1120955479 R26-M0-NF-C:J02-U01 INFO: generating core.13067
+1120955633 R26-M0-N7-C:J02-U01 INFO: generating core.13131
+1120955677 R34-M1-N4-C:J03-U11 INFO: generating core.14071
+1120956526 R37-M1-N7-C:J17-U01 INFO: generating core.8544
+1120956527 R37-M1-N7-C:J04-U11 INFO: generating core.8531
+1120956557 R20-M0-N5-C:J07-U11 INFO: generating core.13946
+1120956704 R24-M0-N0-C:J02-U11 INFO: generating core.16095
+1120956736 R21-M1-N8-C:J04-U01 INFO: generating core.7183
+1120956863 R06-M1-N8-C:J14-U01 INFO: generating core.1988
+1120957066 R01-M1-N5-C:J04-U11 INFO: generating core.2347
+1120957404 R05-M1-N2-C:J06-U01 INFO: generating core.2790
+1120957410 R01-M1-NA-C:J12-U11 INFO: generating core.2573
+1120957717 R00-M1-N9-C:J11-U01 INFO: generating core.3985
+1120958362 R26-M0-ND-C:J16-U11 INFO: generating core.13592
+1120958385 R37-M1-ND-C:J03-U01 INFO: generating core.10019
+1120958403 R21-M0-N3-C:J06-U11 INFO: generating core.10842
+1120958502 R23-M1-N1-C:J06-U01 INFO: generating core.8138
+1120967799 R17-M0-NF-C:J13-U11 INFO: 1365301360 double-hummer alignment exceptions
+1120967919 R14-M0-NB-C:J13-U11 INFO: 1315337824 double-hummer alignment exceptions
+1120967922 R14-M0-N9-C:J14-U01 INFO: 1401390016 double-hummer alignment exceptions
+1120967952 R32-M1-N9-C:J10-U11 INFO: generating core.32657
+1120967983 R35-M1-N3-C:J04-U11 INFO: generating core.26835
+1120968079 R31-M1-N1-C:J06-U11 INFO: generating core.28242
+1120968107 R23-M1-N7-C:J09-U01 INFO: generating core.20970
+1120968120 R30-M0-N3-C:J08-U11 INFO: generating core.18514
+1120968134 R26-M1-N3-C:J11-U11 INFO: generating core.19321
+1120968137 R22-M0-ND-C:J13-U11 INFO: generating core.13753
+1120968273 R33-M0-N2-C:J07-U11 INFO: generating core.23542
+1120968310 R34-M1-N6-C:J09-U11 INFO: generating core.28918
+1120968439 R25-M1-NF-C:J10-U11 INFO: generating core.21145
+1120968530 R35-M1-NF-C:J14-U01 INFO: generating core.8832
+1120968585 R20-M1-N8-C:J03-U01 INFO: generating core.20015
+1120968609 R27-M0-N8-C:J17-U01 INFO: generating core.11564
+1120968690 R30-M0-NC-C:J10-U11 INFO: generating core.1557
+1120968838 R11-M0-N2-C:J04-U11 INFO: generating core.5167
+1120968857 R11-M1-N2-C:J04-U01 INFO: generating core.3111
+1120968887 R10-M0-NB-C:J13-U11 INFO: generating core.7193
+1120968941 R13-M0-N0-C:J12-U01 INFO: generating core.5861
+1120969022 R30-M1-N1-C:J12-U01 INFO: generating core.15425
+1120969071 R30-M0-NF-C:J15-U11 INFO: generating core.560
+1120969099 R35-M0-ND-C:J14-U01 INFO: generating core.5760
+1120969138 R22-M0-ND-C:J17-U11 INFO: generating core.13752
+1120969145 R21-M0-N2-C:J15-U01 INFO: generating core.10860
+1120969149 R24-M0-N7-C:J17-U11 INFO: generating core.12536
+1120969163 R36-M0-N9-C:J17-U01 INFO: generating core.19744
+1120969179 R31-M1-N7-C:J03-U01 INFO: generating core.8803
+1120969258 R21-M0-N0-C:J06-U01 INFO: generating core.28238
+1120969308 R36-M1-N7-C:J05-U01 INFO: generating core.12643
+1120969332 R20-M0-N6-C:J03-U11 INFO: generating core.12927
+1120969348 R37-M0-NA-C:J10-U01 INFO: generating core.6917
+1120969377 R27-M1-N7-C:J11-U01 INFO: generating core.21353
+1120969383 R26-M1-N6-C:J15-U11 INFO: generating core.17276
+1120969432 R27-M0-N3-C:J04-U01 INFO: generating core.26955
+1120969436 R27-M0-N2-C:J03-U11 INFO: generating core.11135
+1120969467 R31-M0-NA-C:J03-U11 INFO: generating core.6711
+1120969497 R27-M1-ND-C:J02-U01 INFO: generating core.22283
+1120969508 R35-M0-NE-C:J03-U11 INFO: generating core.21175
+1120969527 R25-M0-N9-C:J11-U01 INFO: generating core.28329
+1120969674 R22-M1-N8-C:J02-U01 INFO: generating core.20367
+1120969704 R27-M1-N8-C:J08-U11 INFO: generating core.23838
+1120969709 R22-M0-N8-C:J15-U01 INFO: generating core.16300
+1120969793 R33-M0-N0-C:J04-U01 INFO: generating core.7623
+1120969840 R01-M0-N0-C:J10-U01 INFO: generating core.1957
+1120970168 R04-M1-NE-C:J15-U11 INFO: generating core.3292
+1120970941 R00-M1-N7-C:J11-U01 INFO: generating core.3249
+1120970946 R01-M1-N2-C:J08-U11 INFO: generating core.2606
+1120972565 R01-M1-N7-C:J11-U11 INFO: generating core.2233
+1120972589 R04-M1-N0-C:J05-U01 INFO: generating core.3959
+1120972998 R05-M1-N9-C:J16-U01 INFO: generating core.2880
+1120973021 R04-M1-NB-C:J15-U01 INFO: generating core.3792
+1120974004 R01-M1-N9-C:J03-U11 INFO: generating core.2971
+1120975821 R04-M1-NE-C:J10-U01 INFO: generating core.3269
+1121006513 R27-M1-N9-C:J15-U11 INFO: generating core.24376
+1121006557 R24-M0-N3-C:J02-U01 INFO: generating core.31435
+1121006570 R26-M1-N9-C:J02-U01 INFO: generating core.3851
+1121006621 R36-M0-N9-C:J11-U01 INFO: generating core.20257
+1121006676 R30-M1-N9-C:J10-U01 INFO: generating core.32257
+1121006677 R23-M1-NA-C:J14-U11 INFO: generating core.7068
+1121006797 R25-M1-N7-C:J13-U01 INFO: generating core.4329
+1121006800 R24-M1-N7-C:J16-U11 INFO: generating core.16600
+1121006825 R37-M0-N2-C:J05-U11 INFO: generating core.6519
+1121006882 R32-M1-N3-C:J10-U11 INFO: generating core.15313
+1121006900 R24-M1-N6-C:J05-U01 INFO: generating core.16623
+1121006926 R25-M0-NA-C:J13-U11 INFO: generating core.10429
+1121007023 R36-M1-N0-C:J17-U11 INFO: generating core.32116
+1121007046 R30-M1-N8-C:J15-U11 INFO: generating core.15924
+1121091173 R30-M0-NB-C:J09-U01 INFO: CE sym 2, at 0x0d09f1c0, mask 0x80
+1121111691 R22-M0-N0-I:J18-U11 FATAL: ciod: Error loading /home/greeno/raptor.new.dev.3d.BGL.CXX_XL.MPI.ex: invalid or missing program image, No such file or directory
+1121115817 R01-M0-N1-C:J09-U11 FATAL: rts panic! - stopping execution
+1121115819 R04-M0-N1-C:J02-U01 FATAL: rts panic! - stopping execution
+1121172088 R37-M1-N6-C:J03-U11 INFO: generating core.9079
+1121172217 R27-M1-NB-C:J12-U11 INFO: generating core.6425
+1121172239 R26-M1-N1-C:J16-U01 INFO: generating core.3400
+1121172258 R31-M0-NA-C:J03-U11 INFO: generating core.6711
+1121172266 R34-M0-N2-C:J04-U11 INFO: generating core.2263
+1121172311 R25-M0-ND-C:J09-U01 INFO: generating core.9386
+1121172452 R22-M1-N0-C:J10-U11 INFO: generating core.4061
+1121172512 R34-M1-N4-C:J07-U11 INFO: generating core.14070
+1121172512 R34-M1-N4-C:J10-U01 INFO: generating core.14021
+1121172822 R16-M1-N1-C:J05-U01 INFO: generating core.1715
+1121172833 R17-M0-NF-C:J10-U11 INFO: generating core.4489
+1121172957 R11-M1-N6-C:J16-U11 INFO: generating core.2092
+1121172988 R15-M0-N8-C:J02-U11 INFO: generating core.5967
+1121238463 R11-M1-N3-C:J07-U11 INFO: total of 1 ddr error(s) detected and corrected
+1121252281 R33-M1-NE-C:J07-U01 INFO: 118661512 double-hummer alignment exceptions
+1121252310 R24-M0-N1-C:J03-U01 INFO: 112099344 double-hummer alignment exceptions
+1121252323 R22-M1-N3-C:J02-U01 INFO: 113170696 double-hummer alignment exceptions
+1121252326 R26-M1-N1-C:J11-U01 INFO: 117400328 double-hummer alignment exceptions
+1121252377 R30-M1-N2-C:J11-U11 INFO: 112762744 double-hummer alignment exceptions
+1121252397 R23-M1-N6-C:J14-U11 INFO: 116130784 double-hummer alignment exceptions
+1121252450 R11-M1-NE-C:J06-U01 INFO: 114147592 double-hummer alignment exceptions
+1121252452 R00-M1-N9-C:J16-U01 INFO: 113622512 double-hummer alignment exceptions
+1121252465 R13-M0-N7-C:J09-U01 INFO: 114059360 double-hummer alignment exceptions
+1121252541 R03-M0-N7-C:J12-U01 INFO: 114091808 double-hummer alignment exceptions
+1121252570 R01-M0-NE-C:J05-U11 INFO: 115325776 double-hummer alignment exceptions
+1121252594 R36-M0-N4-C:J04-U01 INFO: 113982272 double-hummer alignment exceptions
+1121252594 R22-M1-N8-C:J09-U01 INFO: 113355952 double-hummer alignment exceptions
+1121252628 R34-M0-N0-C:J17-U11 INFO: 115193048 double-hummer alignment exceptions
+1121252729 R26-M0-N3-C:J08-U01 INFO: 111990296 double-hummer alignment exceptions
+1121252775 R21-M0-N2-C:J07-U01 INFO: 112625368 double-hummer alignment exceptions
+1121252884 R30-M1-N6-C:J14-U11 INFO: 116249832 double-hummer alignment exceptions
+1121252899 R23-M0-N3-C:J12-U11 INFO: 112481672 double-hummer alignment exceptions
+1121252955 R11-M1-N3-C:J10-U11 INFO: 116332728 double-hummer alignment exceptions
+1121256179 R36-M0-N7-C:J04-U11 INFO: generating core.691
+1121256302 R31-M1-N5-C:J02-U11 INFO: generating core.52403
+1121256361 R37-M0-NB-C:J05-U01 INFO: generating core.12883
+1121256367 R20-M1-NA-C:J04-U11 INFO: generating core.4159
+1121256377 R22-M1-N2-C:J08-U11 INFO: generating core.5054
+1121256399 R27-M0-N6-C:J09-U11 INFO: generating core.17150
+1121256538 R31-M0-N1-C:J09-U01 INFO: generating core.47314
+1121256570 R34-M0-N3-C:J14-U01 INFO: generating core.5520
+1121256613 R25-M0-N7-C:J10-U01 INFO: generating core.17817
+1121256768 R30-M0-ND-C:J09-U01 INFO: generating core.34898
+1121256778 R23-M1-N2-C:J02-U01 INFO: generating core.47007
+1121256780 R23-M0-N7-C:J02-U11 INFO: generating core.18363
+1121256804 R23-M0-N2-C:J07-U01 INFO: generating core.22494
+1121268169 R32-M1-N8-C:J05-U01 INFO: CE sym 16, at 0x0456cd40, mask 0x04
+1121308028 R23-M0-N5-C:J04-U01 INFO: generating core.26059
+1121308164 R20-M1-N4-C:J02-U01 INFO: generating core.17999
+1121308207 R22-M0-N4-C:J02-U01 INFO: generating core.30671
+1121308254 R20-M1-NB-C:J15-U01 INFO: generating core.2600
+1121308274 R26-M0-N3-C:J14-U11 INFO: generating core.15192
+1121308295 R31-M1-N5-C:J15-U11 INFO: generating core.26224
+1121308295 R31-M1-N5-C:J17-U11 INFO: generating core.25712
+1121308306 R37-M0-NA-C:J04-U11 INFO: generating core.22807
+1121308531 R00-M0-NC-C:J17-U11 INFO: generating core.284
+1121308565 R01-M0-NC-C:J12-U01 INFO: generating core.5381
+1121308655 R23-M0-NB-C:J05-U01 INFO: generating core.27051
+1121308677 R24-M0-N6-C:J15-U01 INFO: generating core.29420
+1121308707 R35-M1-NE-C:J09-U11 INFO: generating core.8374
+1121308757 R20-M0-N0-C:J06-U11 INFO: generating core.15966
+1121309100 R00-M1-N2-C:J02-U11 INFO: generating core.7855
+1121309138 R05-M1-N7-C:J15-U11 INFO: generating core.2296
+1121309141 R05-M0-NE-C:J04-U11 INFO: generating core.1103
+1121309169 R05-M0-N9-C:J07-U11 INFO: generating core.2010
+1121309186 R04-M1-N6-C:J12-U11 INFO: generating core.3181
+1121310867 R26-M0-N9-C:J08-U01 INFO: generating core.32010
+1121310909 R33-M1-ND-C:J05-U11 INFO: generating core.9651
+1121310915 R27-M0-N5-C:J10-U01 INFO: generating core.10057
+1121310926 R37-M0-ND-C:J03-U11 INFO: generating core.5939
+1121311022 R24-M0-NF-C:J15-U11 INFO: generating core.12984
+1121311028 R20-M1-ND-C:J05-U11 INFO: generating core.17467
+1121311109 R34-M1-NE-C:J03-U11 INFO: generating core.29367
+1121311111 R30-M1-NA-C:J14-U01 INFO: generating core.14852
+1121311141 R25-M1-N6-C:J07-U11 INFO: generating core.4862
+1121311157 R25-M0-NB-C:J03-U11 INFO: generating core.27323
+1121311176 R31-M1-NA-C:J08-U11 INFO: generating core.26646
+1121311390 R37-M0-NC-C:J17-U11 INFO: generating core.5428
+1121311410 R33-M1-N8-C:J15-U11 INFO: generating core.12212
+1121311425 R26-M1-N8-C:J04-U01 INFO: generating core.3343
+1121311483 R32-M0-N0-C:J09-U01 INFO: generating core.19942
+1121311518 R32-M0-NC-C:J14-U11 INFO: generating core.18324
+1121311526 R32-M0-N8-C:J09-U11 INFO: generating core.3510
+1121311849 R22-M1-ND-C:J05-U11 INFO: generating core.17851
+1121311900 R22-M0-ND-C:J15-U01 INFO: generating core.30632
+1121311928 R21-M0-N2-C:J05-U01 INFO: generating core.26735
+1121312018 R36-M0-NB-C:J12-U01 INFO: generating core.18689
+1121312027 R31-M1-N9-C:J09-U11 INFO: generating core.27698
+1121312054 R33-M1-NA-C:J12-U11 INFO: generating core.10645
+1121312104 R33-M0-NF-C:J10-U11 INFO: generating core.5009
+1121312172 R25-M1-ND-C:J10-U11 INFO: generating core.5785
+1121312220 R23-M1-NF-C:J12-U11 INFO: generating core.4505
+1121312231 R23-M0-NB-C:J11-U11 INFO: generating core.27577
+1121312262 R32-M1-N1-C:J03-U11 INFO: generating core.32755
+1121312282 R32-M1-N5-C:J02-U11 INFO: generating core.30675
+1121312306 R35-M1-N0-C:J13-U01 INFO: generating core.11493
+1121312337 R31-M0-NC-C:J03-U01 INFO: generating core.5671
+1121312351 R37-M1-N8-C:J08-U11 INFO: generating core.27926
+1121312380 R20-M0-N0-C:J02-U11 INFO: generating core.15967
+1121312396 R21-M1-N0-C:J15-U01 INFO: generating core.24172
+1121312412 R30-M1-NC-C:J17-U01 INFO: generating core.29732
+1121312448 R30-M0-N4-C:J09-U11 INFO: generating core.17526
+1121313534 R20-M1-N9-C:J12-U11 INFO: generating core.19481
+1121313545 R37-M0-N1-C:J12-U01 INFO: generating core.23873
+1121313580 R26-M0-NB-C:J04-U01 INFO: generating core.14603
+1121313655 R26-M0-N1-C:J13-U11 INFO: generating core.15737
+1121313817 R21-M1-N2-C:J02-U01 INFO: generating core.23119
+1121313824 R22-M0-N3-C:J17-U01 INFO: generating core.14824
+1121313853 R36-M1-N9-C:J17-U01 INFO: generating core.15648
+1121313856 R33-M0-N2-C:J15-U11 INFO: generating core.7156
+1121313915 R33-M0-NA-C:J05-U11 INFO: generating core.22967
+1121313927 R06-M1-N8-C:J16-U11 INFO: generating core.3980
+1121313946 R35-M1-N1-C:J12-U11 INFO: generating core.11473
+1121313953 R34-M1-N7-C:J03-U11 INFO: generating core.13043
+1121313970 R27-M0-N1-C:J05-U01 INFO: generating core.28011
+1121313971 R21-M0-NA-C:J11-U11 INFO: generating core.27197
+1121313974 R21-M0-N9-C:J17-U11 INFO: generating core.27704
+1121314001 R21-M0-N5-C:J13-U11 INFO: generating core.9337
+1121314022 R37-M0-N2-C:J09-U01 INFO: generating core.22886
+1121314138 R37-M0-NC-C:J11-U11 INFO: generating core.22325
+1121314248 R23-M1-N8-C:J09-U11 INFO: generating core.23998
+1121383222 R01-M0-N0-I:J18-U11 FATAL: ciod: Error creating node map from file /home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map: Permission denied
+1121408299 R23-M0-N0-I:J18-U01 INFO: ciod: Z coordinate 32 exceeds physical dimension 32 at line 33 of node map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map
+1121442061 R00-M0-NA-C:J04-U01 INFO: generating core.4615
+1121442070 R01-M0-NB-C:J07-U01 INFO: generating core.1682
+1121442075 R00-M0-N9-C:J14-U01 INFO: generating core.896
+1121442115 R04-M0-NB-C:J04-U01 INFO: generating core.4675
+1121442124 R04-M0-NE-C:J17-U01 INFO: generating core.84
+1121451271 R07-M1-ND-C:J02-U11 INFO: generating core.1227
+1121484659 R33-M0-N6-C:J13-U11 INFO: 1 ddr errors(s) detected and corrected on rank 0, symbol 33, bit 7
+1121493806 R36-M1-ND-C:J04-U11 INFO: generating core.59955
+1121493886 R20-M1-N2-C:J03-U11 INFO: generating core.38143
+1121493913 R37-M0-N6-C:J09-U11 INFO: generating core.41718
+1121494125 R36-M1-N2-C:J05-U11 INFO: generating core.29431
+1121494129 R36-M0-NE-C:J05-U11 INFO: generating core.33399
+1121494144 R31-M0-ND-C:J03-U11 INFO: generating core.11379
+1121494164 R34-M0-N5-C:J03-U11 INFO: generating core.36339
+1121494252 R33-M0-NF-C:J11-U01 INFO: generating core.42833
+1121494263 R31-M1-NB-C:J05-U11 INFO: generating core.20595
+1121494308 R21-M0-N7-C:J14-U01 INFO: generating core.17560
+1121494314 R23-M0-NE-C:J16-U11 INFO: generating core.17212
+1121495246 R36-M1-NF-C:J02-U01 INFO: generating core.26131
+1121495342 R37-M0-N3-C:J13-U01 INFO: generating core.45777
+1121495479 R24-M0-N2-C:J15-U01 INFO: generating core.62940
+1121495496 R20-M0-N5-C:J03-U01 INFO: generating core.27867
+1121495532 R27-M0-NB-C:J16-U01 INFO: generating core.21016
+1121495594 R34-M0-N7-C:J13-U01 INFO: generating core.465
+1121495754 R21-M0-N9-C:J16-U11 INFO: generating core.55352
+1121495798 R37-M0-N5-C:J02-U11 INFO: generating core.44723
+1121495911 R32-M0-N5-C:J02-U11 INFO: generating core.36787
+1121495968 R10-M0-N2-C:J03-U01 INFO: generating core.29903
+1121495976 R12-M1-N7-C:J08-U11 INFO: generating core.33706
+1121496041 R17-M1-N6-C:J04-U11 INFO: generating core.8879
+1121496047 R15-M0-NF-C:J11-U01 INFO: generating core.50505
+1121496062 R10-M0-N3-C:J03-U01 INFO: generating core.29899
+1121496080 R15-M1-N3-C:J15-U01 INFO: generating core.46536
+1121496335 R13-M0-NE-C:J14-U11 INFO: generating core.50988
+1121496365 R03-M1-NB-C:J10-U01 INFO: generating core.22273
+1121496382 R11-M1-NA-C:J11-U01 INFO: generating core.46157
+1121496460 R06-M1-N7-C:J06-U11 INFO: generating core.59042
+1121496542 R02-M1-NA-C:J05-U11 INFO: generating core.29543
+1121496570 R07-M1-NA-C:J03-U11 INFO: generating core.22119
+1121496582 R02-M0-NA-C:J16-U11 INFO: generating core.4900
+1121597832 R36-M1-NB-C:J14-U11 INFO: generating core.30256
+1121597851 R36-M1-N1-C:J08-U01 INFO: generating core.64146
+1121597882 R22-M0-N7-C:J17-U01 INFO: generating core.58328
+1121597962 R33-M1-ND-C:J10-U01 INFO: generating core.20241
+1121597978 R33-M1-N9-C:J10-U01 INFO: generating core.24337
+1121597997 R37-M1-NA-C:J12-U11 INFO: generating core.21045
+1121598024 R21-M1-N1-C:J16-U01 INFO: generating core.47256
+1121598039 R21-M1-NA-C:J05-U11 INFO: generating core.45183
+1121598051 R27-M1-NA-C:J06-U11 INFO: generating core.46654
+1121598150 R23-M0-NA-C:J09-U11 INFO: generating core.21374
+1121598237 R23-M1-NB-C:J16-U11 INFO: generating core.45880
+1121598257 R31-M1-N3-C:J05-U01 INFO: generating core.20691
+1121598278 R33-M0-NA-C:J05-U11 INFO: generating core.45943
+1121598391 R25-M1-NB-C:J11-U01 INFO: generating core.46425
+1121598603 R13-M1-ND-C:J13-U11 INFO: generating core.11113
+1121598608 R16-M1-NB-C:J07-U11 INFO: generating core.5738
+1121598678 R10-M1-N6-C:J13-U11 INFO: generating core.237
+1121598731 R17-M1-N9-C:J09-U01 INFO: generating core.47690
+1121598788 R12-M0-NF-C:J16-U01 INFO: generating core.58120
+1121598991 R11-M1-NA-C:J05-U11 INFO: generating core.45167
+1121599038 R01-M1-N6-C:J07-U11 INFO: generating core.17638
+1121599136 R07-M1-ND-C:J11-U11 INFO: generating core.52833
+1121599161 R07-M1-N1-C:J10-U01 INFO: generating core.56961
+1121599219 R01-M0-ND-C:J16-U01 INFO: generating core.43008
+1121599282 R04-M1-NB-C:J13-U11 INFO: generating core.29025
+1121599303 R06-M0-N9-C:J06-U01 INFO: generating core.7682
+1121599333 R31-M0-N0-C:J04-U11 INFO: generating core.14519
+1121599491 R21-M0-N4-C:J13-U01 INFO: generating core.51421
+1121599560 R10-M0-NC-C:J09-U11 INFO: generating core.26734
+1121599608 R14-M1-N0-C:J09-U11 INFO: generating core.39406
+1121599612 R00-M1-N0-C:J08-U11 INFO: generating core.30886
+1121599720 R17-M1-N4-C:J14-U01 INFO: generating core.11916
+1121706993 R37-M1-NE-C:J02-U11 INFO: generating core.25367
+1121707096 R21-M1-N2-C:J07-U01 INFO: generating core.23150
+1121707109 R22-M0-N2-C:J12-U11 INFO: generating core.31197
+1121707209 R30-M1-NE-C:J02-U11 INFO: generating core.29207
+1121707280 R23-M0-N2-C:J15-U01 INFO: generating core.11244
+1121707362 R36-M1-N8-C:J06-U01 INFO: generating core.16134
+1121707363 R26-M0-NC-C:J07-U11 INFO: generating core.14142
+1121707390 R27-M0-N0-C:J12-U11 INFO: generating core.27997
+1121707427 R34-M1-N8-C:J07-U01 INFO: generating core.16038
+1121707460 R23-M1-N0-C:J05-U01 INFO: generating core.7663
+1121727206 R20-M1-N8-C:J12-U01 FATAL: rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=42315, cpu=105, index=1207960804, total=2691015
+1121727746 R00-M1-N5-C:J03-U11 FATAL: debug wait enable.................0
+1121736053 R02-M1-N5-C:J17-U01 INFO: generating core.176
+1121900469 R33-M1-N3-C:J02-U01 INFO: 8 floating point alignment exceptions
+1121900596 R24-M0-NB-C:J06-U11 INFO: 8 floating point alignment exceptions
+1121900682 R30-M1-N9-C:J14-U11 INFO: 8 floating point alignment exceptions
+1121900708 R35-M1-N5-C:J08-U11 INFO: 8 floating point alignment exceptions
+1121900851 R32-M1-N5-C:J06-U01 INFO: 8 floating point alignment exceptions
+1121900875 R10-M0-NF-C:J04-U01 INFO: 8 floating point alignment exceptions
+1121901038 R16-M0-N3-C:J11-U01 INFO: 8 floating point alignment exceptions
+1121901046 R00-M1-NF-C:J04-U11 INFO: 8 floating point alignment exceptions
+1121901110 R15-M0-N2-C:J04-U11 INFO: 8 floating point alignment exceptions
+1121901115 R11-M1-NB-C:J15-U11 INFO: 8 floating point alignment exceptions
+1121901136 R04-M1-N1-C:J12-U01 INFO: 8 floating point alignment exceptions
+1121901193 R02-M0-NF-C:J10-U11 INFO: 8 floating point alignment exceptions
+1121901286 R04-M1-NE-C:J02-U11 INFO: 8 floating point alignment exceptions
+1121901372 R35-M1-N4-C:J17-U01 INFO: 8 floating point alignment exceptions
+1121901493 R05-M1-NC-C:J14-U11 INFO: 8 floating point alignment exceptions
+1121901515 R14-M0-N8-C:J13-U11 INFO: 8 floating point alignment exceptions
+1121901541 R11-M1-N0-C:J08-U01 INFO: 8 floating point alignment exceptions
+1121901551 R17-M0-N4-C:J06-U01 INFO: 8 floating point alignment exceptions
+1121902597 R11-M1-NE-C:J09-U01 INFO: 8 floating point alignment exceptions
+1121902788 R31-M0-NC-C:J14-U11 INFO: 8 floating point alignment exceptions
+1121902797 R27-M1-NC-C:J15-U01 INFO: 8 floating point alignment exceptions
+1121902827 R25-M1-N8-C:J03-U01 INFO: 8 floating point alignment exceptions
+1121902859 R10-M1-N0-C:J09-U11 INFO: 8 floating point alignment exceptions
+1121902860 R10-M1-N0-C:J16-U11 INFO: 8 floating point alignment exceptions
+1121902868 R00-M0-N4-C:J17-U01 INFO: 8 floating point alignment exceptions
+1121903649 R34-M0-N1-C:J08-U01 INFO: 8 floating point alignment exceptions
+1121903678 R32-M0-N3-C:J09-U11 INFO: 8 floating point alignment exceptions
+1121903679 R32-M0-N3-C:J08-U11 INFO: 8 floating point alignment exceptions
+1121903735 R12-M1-N5-C:J15-U11 INFO: 8 floating point alignment exceptions
+1121903795 R06-M0-N7-C:J10-U11 INFO: 8 floating point alignment exceptions
+1121903856 R02-M0-N8-C:J12-U01 INFO: 8 floating point alignment exceptions
+1121904520 R36-M0-N7-C:J08-U01 INFO: 8 floating point alignment exceptions
+1121904541 R24-M1-N5-C:J03-U01 INFO: 8 floating point alignment exceptions
+1121904572 R32-M0-N5-C:J10-U11 INFO: 8 floating point alignment exceptions
+1121904574 R10-M1-ND-C:J17-U11 INFO: 8 floating point alignment exceptions
+1121905368 R02-M0-NF-C:J13-U01 INFO: 8 floating point alignment exceptions
+1121906028 R36-M0-NE-C:J17-U01 INFO: 8 floating point alignment exceptions
+1122126854 R27-M0-N5-C:J11-U11 INFO: total of 1 ddr error(s) detected and corrected
+1122132688 R16-M0-N8-C:J09-U01 INFO: generating core.7830
+1122132705 R12-M1-N0-C:J13-U01 INFO: generating core.1781
+1122132718 R10-M1-ND-C:J11-U01 INFO: generating core.8977
+1122132758 R17-M0-N7-C:J11-U01 INFO: generating core.12721
+1122132819 R14-M0-ND-C:J11-U11 INFO: generating core.15193
+1122132870 R16-M1-N5-C:J15-U01 INFO: generating core.9136
+1122133251 R27-M0-NE-C:J11-U11 INFO: generating core.9021
+1122133459 R37-M0-NC-C:J03-U01 INFO: generating core.5927
+1122133483 R26-M1-N0-C:J05-U11 INFO: generating core.3455
+1122133520 R30-M0-N8-C:J12-U11 INFO: generating core.3093
+1122139627 R01-M0-NE-C:J17-U01 INFO: 15 floating point alignment exceptions
+1122139629 R05-M1-N5-C:J14-U11 INFO: 15 floating point alignment exceptions
+1122139727 R04-M0-N4-C:J12-U01 INFO: 15 floating point alignment exceptions
+1122139731 R01-M1-N8-C:J13-U11 INFO: 15 floating point alignment exceptions
+1122143012 R14-M1-N3-C:J04-U01 INFO: generating core.9315
+1122143037 R10-M0-N2-C:J12-U01 INFO: generating core.7205
+1122143084 R13-M1-NF-C:J12-U01 INFO: generating core.2241
+1122143119 R15-M1-N6-C:J02-U11 INFO: generating core.10607
+1122143241 R10-M0-NC-C:J15-U11 INFO: generating core.6940
+1122143251 R10-M0-N4-C:J05-U11 INFO: generating core.14911
+1122143827 R33-M1-N5-C:J13-U11 INFO: generating core.9713
+1122143917 R37-M1-N1-C:J11-U11 INFO: generating core.28529
+1122143971 R24-M1-N3-C:J16-U01 INFO: generating core.18632
+1122144001 R22-M1-N3-C:J12-U01 INFO: generating core.2505
+1122144004 R21-M0-NF-C:J09-U11 INFO: generating core.24634
+1122144022 R22-M0-N3-C:J02-U01 INFO: generating core.31691
+1122144024 R24-M1-N2-C:J02-U01 INFO: generating core.2767
+1122144042 R36-M1-NE-C:J11-U11 INFO: generating core.29493
+1122144072 R33-M0-NB-C:J10-U01 INFO: generating core.23425
+1122147215 R01-M1-N1-C:J03-U11 INFO: 15 floating point alignment exceptions
+1122160892 R01-M1-NB-C:J03-U11 INFO: 1 ddr errors(s) detected and corrected on rank 0, symbol 20, bit 3
+1122160898 R04-M0-N1-C:J10-U01 INFO: total of 23 ddr error(s) detected and corrected
+1122162130 R24-M1-ND-C:J09-U11 INFO: 5 floating point alignment exceptions
+1122162200 R33-M1-N1-C:J09-U01 INFO: 5 floating point alignment exceptions
+1122162364 R27-M0-N9-C:J07-U11 INFO: 5 floating point alignment exceptions
+1122164883 R17-M1-NF-C:J10-U11 INFO: 15 floating point alignment exceptions
+1122164887 R17-M1-N9-C:J05-U01 INFO: 15 floating point alignment exceptions
+1122164950 R11-M0-N9-C:J17-U01 INFO: 15 floating point alignment exceptions
+1122164957 R15-M0-N6-C:J12-U01 INFO: 15 floating point alignment exceptions
+1122164972 R13-M1-N2-C:J06-U11 INFO: 15 floating point alignment exceptions
+1122165031 R14-M1-N4-C:J04-U01 INFO: 15 floating point alignment exceptions
+1122165037 R12-M0-N0-C:J12-U11 INFO: 15 floating point alignment exceptions
+1122165073 R13-M1-N4-C:J04-U11 INFO: 15 floating point alignment exceptions
+1122165076 R13-M0-N0-C:J15-U11 INFO: 15 floating point alignment exceptions
+1122165233 R16-M0-N9-C:J08-U11 INFO: generating core.7818
+1122165293 R12-M0-NC-C:J05-U01 INFO: generating core.15063
+1122165304 R16-M0-N0-C:J10-U01 INFO: 5 floating point alignment exceptions
+1122165425 R14-M1-N3-C:J15-U01 INFO: 5 floating point alignment exceptions
+1122165429 R16-M0-NE-C:J06-U01 INFO: 5 floating point alignment exceptions
+1122165437 R16-M0-ND-C:J02-U11 INFO: 5 floating point alignment exceptions
+1122165453 R12-M1-N6-C:J06-U11 INFO: 5 floating point alignment exceptions
+1122165503 R16-M1-N3-C:J15-U11 INFO: 5 floating point alignment exceptions
+1122165588 R17-M0-N4-C:J06-U11 INFO: 5 floating point alignment exceptions
+1122165615 R15-M0-N6-C:J10-U11 INFO: 5 floating point alignment exceptions
+1122165629 R14-M1-N0-C:J06-U01 INFO: 5 floating point alignment exceptions
+1122165682 R10-M1-N4-C:J06-U01 INFO: 5 floating point alignment exceptions
+1122165850 R17-M0-NF-C:J04-U01 INFO: 5 floating point alignment exceptions
+1122165876 R10-M1-NE-C:J05-U01 INFO: 5 floating point alignment exceptions
+1122165882 R11-M1-NE-C:J10-U11 INFO: generating core.2317
+1122165888 R15-M0-NE-C:J07-U01 INFO: generating core.12630
+1122165890 R15-M1-NA-C:J13-U11 INFO: generating core.11357
+1122165915 R17-M0-N1-C:J06-U11 INFO: generating core.14250
+1122166026 R11-M1-NF-C:J07-U01 INFO: generating core.10514
+1122166057 R16-M1-N0-C:J10-U01 INFO: 5 floating point alignment exceptions
+1122166096 R17-M0-N4-C:J12-U11 INFO: generating core.4781
+1122166538 R15-M1-N3-C:J11-U11 INFO: 5 floating point alignment exceptions
+1122166574 R14-M1-ND-C:J17-U01 INFO: 5 floating point alignment exceptions
+1122166579 R14-M0-NF-C:J09-U01 INFO: 5 floating point alignment exceptions
+1122166602 R16-M1-NE-C:J10-U11 INFO: 5 floating point alignment exceptions
+1122166655 R13-M0-NB-C:J03-U11 INFO: 5 floating point alignment exceptions
+1122166749 R13-M1-NC-C:J04-U01 INFO: 5 floating point alignment exceptions
+1122167255 R16-M1-NB-C:J06-U01 INFO: 685 floating point alignment exceptions
+1122167266 R17-M0-NF-C:J09-U01 INFO: 685 floating point alignment exceptions
+1122167432 R11-M1-N9-C:J07-U11 INFO: 685 floating point alignment exceptions
+1122167438 R11-M1-N5-C:J14-U11 INFO: 685 floating point alignment exceptions
+1122168559 R13-M0-N2-C:J02-U01 INFO: 1005 floating point alignment exceptions
+1122168606 R16-M1-NA-C:J09-U11 INFO: 1005 floating point alignment exceptions
+1122168668 R14-M0-N1-C:J12-U11 INFO: 1005 floating point alignment exceptions
+1122168756 R17-M0-N0-C:J10-U01 INFO: 1005 floating point alignment exceptions
+1122168766 R13-M1-N4-C:J14-U01 INFO: 1005 floating point alignment exceptions
+1122244714 R36-M1-N9-C:J06-U01 INFO: CE sym 25, at 0x155e28e0, mask 0x08
+1122255910 R37-M0-N1-C:J02-U01 INFO: generating core.16019
+1122255994 R31-M0-NB-C:J17-U11 INFO: generating core.45168
+1122256043 R24-M1-NF-C:J05-U01 INFO: generating core.33115
+1122256252 R34-M0-N2-C:J04-U11 INFO: generating core.4535
+1122256376 R31-M1-NA-C:J04-U01 INFO: generating core.53271
+1122256379 R34-M1-N9-C:J17-U01 INFO: generating core.31056
+1122256630 R10-M0-N2-C:J10-U11 INFO: generating core.62637
+1122256784 R17-M1-N9-C:J11-U11 INFO: generating core.15977
+1122256860 R12-M1-N2-C:J04-U11 INFO: generating core.37807
+1122256902 R00-M0-N2-C:J06-U01 INFO: generating core.38022
+1122334240 R01-M1-NB-C:J15-U01 INFO: generating core.2704
+1122334241 R00-M0-N7-C:J09-U01 INFO: generating core.50
+1122334272 R00-M1-N0-C:J14-U11 INFO: generating core.4012
+1122334283 R05-M1-N0-C:J12-U01 INFO: generating core.2917
+1122400971 R06-M0-N7-C:J07-U01 INFO: generating core.114
+1122403352 R06-M0-N5-C:J15-U11 INFO: generating core.248
+1122405365 R04-M0-N6-C:J09-U01 INFO: generating core.118
+1122405838 R06-M0-N8-C:J11-U01 INFO: generating core.469
+1122430461 R20-M0-N9-C:J06-U01 INFO: generating core.64538
+1122430482 R22-M1-NB-C:J08-U11 INFO: generating core.37690
+1122430512 R23-M1-N7-C:J10-U01 INFO: generating core.42905
+1122430586 R21-M0-N1-C:J05-U01 INFO: generating core.55515
+1122430589 R27-M1-NA-C:J02-U11 INFO: generating core.46655
+1122430659 R22-M1-N3-C:J02-U11 INFO: generating core.38843
+1122430660 R20-M1-ND-C:J06-U01 INFO: generating core.3098
+1122430675 R21-M1-N2-C:J12-U11 INFO: generating core.45245
+1122430739 R34-M0-N7-C:J15-U01 INFO: generating core.34256
+1122430783 R20-M0-NB-C:J02-U11 INFO: generating core.29755
+1122430797 R35-M1-N7-C:J02-U01 INFO: generating core.50579
+1122431105 R13-M1-NE-C:J10-U01 INFO: generating core.9997
+1122431133 R16-M0-N9-C:J17-U01 INFO: generating core.64072
+1122431171 R16-M0-N6-C:J12-U01 INFO: generating core.25229
+1122431178 R17-M1-NB-C:J09-U11 INFO: generating core.45674
+1122431204 R10-M1-NB-C:J16-U11 INFO: generating core.36904
+1122431319 R16-M0-ND-C:J17-U01 INFO: generating core.59976
+1122431319 R16-M0-ND-C:J13-U01 INFO: generating core.59977
+1122431396 R07-M0-N6-C:J07-U11 INFO: generating core.9958
+1122431408 R11-M0-N5-C:J14-U01 INFO: generating core.19592
+1122431485 R03-M1-N6-C:J08-U11 INFO: generating core.50086
+1122431514 R03-M1-N2-C:J11-U01 INFO: generating core.22469
+1122431540 R14-M0-N9-C:J04-U11 INFO: generating core.63787
+1122431669 R07-M1-N6-C:J14-U11 INFO: generating core.18084
+1122431732 R05-M1-N9-C:J11-U01 INFO: generating core.23873
+1122492300 R36-M0-N7-C:J13-U11 INFO: generating core.2105
+1122492307 R36-M0-N3-C:J09-U01 INFO: generating core.306
+1122574113 R31-M1-N1-C:J08-U11 INFO: generating core.11346
+1122574115 R31-M0-NB-C:J12-U11 INFO: generating core.6161
+1122627016 R36-M0-NA-C:J13-U01 INFO: 1 ddr errors(s) detected and corrected on rank 0, symbol 11, bit 6
+1123021638 UNKNOWN_LOCATION INFO: New ido chip inserted into the database: FF:F2:9F:15:1F:72:00:0D:60:EA:E0:8D ip=10.7.0.13 v=9 t=2
+1123025540 UNKNOWN_LOCATION INFO: New ido chip inserted into the database: FF:F2:9F:16:BF:6C:00:0D:60:E9:40:93 ip=10.5.0.46 v=13 t=4
+1123025954 R23-M0-N7 SEVERE: NodeCard is not fully functional
+1123030687 R00-M0-N2 ERROR: Node card status: ALERT 0, ALERT 1, ALERT 2, ALERT 3 is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1123030693 R00-M0-ND INFO: Node card VPD check: U11 node in processor card slot J16 do not match. VPD ecid 04DF80A7942FFFFF0C081AE08CD2, found 0000000000000000000000000000
+1123042536 UNKNOWN_LOCATION SEVERE: Can not get assembly information for node card
+1123043313 UNKNOWN_LOCATION INFO: New ido chip inserted into the database: FF:F2:9F:16:C4:C2:00:0D:60:E9:3B:3D ip=10.2.1.37 v=13 t=4
+1123060215 UNKNOWN_LOCATION SEVERE: Can not get assembly information for node card
+1123110662 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1123110668 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1123110754 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1123110774 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1123110830 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1123110843 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1123110844 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1123110860 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1123110898 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1123176466 R71-M0-NC ERROR: Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1123176833 R10-M1-N7 INFO: Node card VPD check: U01 node in processor card slot J14 do not match. VPD ecid 074C04C10F7BFFFF08051AE08ED2, found 04C180A5D12FFFFF05081BD088E2
+1123178302 R06-M1-ND WARNING: Node card is not fully functional
+1123183618 R76-M1-N4 ERROR: Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1123195083 UNKNOWN_LOCATION INFO: Ido chip status changed: FF:F2:9F:16:EB:27:00:0D:60:E9:14:D8 ip=10.0.2.192 v=13 t=4 status=M Thu Aug 04 15:29:45 PDT 2005
+1123195190 UNKNOWN_LOCATION INFO: Ido chip status changed: FF:F2:9F:15:7E:6E:00:0D:60:EA:81:91 ip=10.0.1.155 v=13 t=1 status=M Thu Aug 04 15:31:25 PDT 2005
+1123240786 R23-M1-N1-C:J13-U11 INFO: CE sym 27, at 0x11b3f3c0, mask 0x10
+1123262593 R25-M1-N2 WARNING: PrepareForService shutting down NodeCard(mLctn(R25-M1-N2), mCardSernum(203231503833343000000000594c31304b34333431303158), mLp(FF:F2:9F:16:CF:0F:00:0D:60:E9:30:F0), mIp(10.2.2.80), mType(4)) as part of Service Action 310
+1123607801 UNKNOWN_LOCATION INFO: Ido chip status changed: FF:F2:9F:16:DC:81:00:0D:60:E9:23:7E ip=10.6.1.207 v=13 t=4 status=M Tue Aug 09 10:08:23 PDT 2005
+1123608612 R40-M1-N5 SEVERE: Can not get assembly information for node card
+1123608679 R70-M0-N0 SEVERE: Can not get assembly information for node card
+1123609246 R51-M1-ND WARNING: Node card is not fully functional
+1123609672 R44-M0-N3 SEVERE: Can not get assembly information for node card
+1123609997 R74-M0-N1 WARNING: Node card is not fully functional
+1123610468 R26-M0-N7 ERROR: Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1123614572 R00-M0-N6-C:J03-U11 FATAL: rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-
+1123637155 R23-M0-N0-C:J10-U01 INFO: CE sym 18, at 0x0e0272e0, mask 0x10
+1123652286 R15-M0-NC-C:J04-U11 INFO: 1 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected
+1123685937 R14-M1-N0-C:J07-U11 INFO: total of 1 ddr error(s) detected and corrected
+1123709473 R47-M0-N4-C:J07-U01 INFO: CE sym 8, at 0x0a2ae600, mask 0x10
+1123759596 R35-M0-N6-C:J13-U01 INFO: CE sym 28, at 0x0fe65820, mask 0x04
+1123850737 R61-M0-NB-C:J05-U01 INFO: CE sym 25, at 0x10e1b8a0, mask 0x10
+1123914312 R44-M0-N8-I:J18-U01 FATAL: ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1123914469 R46-M0-N0-I:J18-U01 FATAL: ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1123914543 R52-M1-N8-I:J18-U11 FATAL: ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1123914551 R57-M1-N0-I:J18-U01 FATAL: ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1123914577 R61-M1-N0-I:J18-U01 FATAL: ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1123914638 R24-M0-N0-I:J18-U01 FATAL: ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1123914727 R55-M1-N0-I:J18-U11 FATAL: ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1123914754 R31-M1-N4-I:J18-U11 FATAL: ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1123914842 R66-M0-N8-I:J18-U01 FATAL: ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1123914894 R15-M0-NC-I:J18-U11 FATAL: ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1123914895 R16-M1-N0-I:J18-U11 FATAL: ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1123915332 R01-M0-NC-I:J18-U11 FATAL: ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1123915673 R66-M1-N4-I:J18-U01 FATAL: ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1123915807 R74-M1-N8-I:J18-U01 FATAL: ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1123915920 R73-M0-N4-I:J18-U11 FATAL: ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error
+1123966456 R27-M1-NC-I:J18-U11 FATAL: ciod: LOGIN chdir(pwd) failed: No such file or directory
+1123966497 R61-M1-NC-I:J18-U01 FATAL: ciod: LOGIN chdir(pwd) failed: No such file or directory
+1123976348 R60-M1-NC-I:J18-U01 FATAL: ciod: Error loading /bgl/apps/scaletest/stability/MDCASK/WORK/65576/inferno: invalid or missing program image, No such file or directory
+1124071359 R21-M0-N8-I:J18-U11 FATAL: ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:42213: Link has been severed
+1124131896 R40-M1-N0-I:J18-U11 INFO: ciod: Missing or invalid fields on line 1 of node map file /home/auselton/bgl/mapfiles/bgl.128mps.f64.map
+1124167519 R71-M0-NA-C:J12-U11 FATAL: rts: kernel terminated for reason 1003
+1124167540 R63-M0-N4-C:J16-U01 FATAL: rts: kernel terminated for reason 1004
+1124225022 R06-M0-NB-C:J16-U01 INFO: CE sym 22, at 0x009c14e0, mask 0x20
+1124233921 R06-M0-NB-C:J16-U01 INFO: total of 1 ddr error(s) detected and corrected
+1124306491 R12-M0-N4-I:J18-U01 FATAL: ciod: LOGIN chdir(/p/bg1/da) failed: No such file or directory
+1124394179 R30-M0-N0-I:J18-U01 INFO: ciod: generated 64 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm
+1124394227 R71-M1-N8-I:J18-U01 INFO: ciod: generated 64 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm
+1124394255 R02-M0-N4-I:J18-U11 INFO: ciod: generated 64 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm
+1124519271 R60-M1-N7-C:J16-U11 INFO: 1 ddr errors(s) detected and corrected on rank 0, symbol 10, bit 0
+1124546691 R44-M1-N4-I:J18-U11 INFO: ciod: generated 1 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm
+1124547186 R65-M0-NC-I:J18-U01 INFO: ciod: generated 64 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm
+1124611136 R11-M1-N2-C:J12-U01 INFO: CE sym 3, at 0x0b19b8a0, mask 0x08
+1124611166 R30-M1-NC-C:J02-U01 INFO: CE sym 20, at 0x180462c0, mask 0x02
+1124722015 R24-M1-N4-I:J18-U11 FATAL: ciod: LOGIN chdir(/home/germann2/SPaSM_static) failed: No such file or directory
+1124736611 R34-M1-N8-I:J18-U01 INFO: ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi
+1124738105 R70-M1-N0-I:J18-U01 INFO: ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi
+1124738119 R16-M0-N4-I:J18-U11 INFO: ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi
+1124741118 R21-M1-NC-I:J18-U01 INFO: ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi
+1124741126 R65-M0-NC-I:J18-U11 INFO: ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi
+1124741161 R04-M1-N8-I:J18-U11 INFO: ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi
+1124798068 R50-M1-N0-I:J18-U11 FATAL: ciod: LOGIN chdir(/home/germann2/BGL-demo) failed: No such file or directory
+1124818171 R14-M0-N0-I:J18-U11 INFO: ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi
+1124818189 R06-M0-N0-I:J18-U01 INFO: ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi
+1124972563 R71-M0-NF-C:J04-U01 INFO: total of 1 ddr error(s) detected and corrected
+1125082053 R62-M1-N3-C:J04-U01 INFO: iar 003a90fc dear 00b360e8
+1125082080 R63-M1-NF-C:J03-U11 INFO: iar 003a90dc dear 00b35148
+1125082154 R62-M1-NA-C:J14-U01 INFO: iar 003a90fc dear 00b35db8
+1125082191 R62-M1-NF-C:J09-U11 INFO: iar 003a9108 dear 00c07348
+1125082746 R63-M1-N6-C:J17-U01 INFO: 2201500 double-hummer alignment exceptions
+1125082766 R62-M1-N6-C:J06-U11 INFO: 2201500 double-hummer alignment exceptions
+1125082778 R63-M1-NB-C:J09-U01 INFO: iar 003a9294 dear 00c06c48
+1125083016 R63-M1-NA-C:J03-U01 INFO: iar 003a92a0 dear 00b36898
+1125083240 R61-M0-N8-C:J05-U01 INFO: 1547520 double-hummer alignment exceptions
+1125083293 R60-M1-N1-C:J11-U11 INFO: iar 003a9260 dear 00efe838
+1125083309 R65-M1-N9-C:J16-U11 INFO: iar 003a9260 dear 00efcbc8
+1125083411 R64-M1-N3-C:J07-U11 INFO: iar 003a929c dear 00efc768
+1125083438 R60-M0-NE-C:J10-U11 INFO: iar 003a929c dear 00efd448
+1125083510 R65-M1-N5-C:J14-U11 INFO: iar 003a92a0 dear 00efd358
+1125083592 R61-M1-ND-C:J17-U01 INFO: iar 003a92a0 dear 00fcc6b8
+1125083604 R65-M1-N4-C:J06-U01 INFO: iar 003a92a0 dear 00efd518
+1125083702 R65-M0-ND-C:J12-U01 INFO: iar 003a9254 dear 00f05688
+1125083731 R61-M0-N3-C:J11-U11 INFO: iar 003a9254 dear 00f07a88
+1125083978 R66-M1-NC-C:J14-U11 INFO: 3095040 double-hummer alignment exceptions
+1125084029 R67-M1-NB-C:J11-U11 INFO: iar 003a9260 dear 012924f8
+1125084030 R67-M1-NB-C:J10-U11 INFO: iar 003a9260 dear 0128f2f8
+1125084057 R67-M1-N3-C:J16-U01 INFO: iar 003a9260 dear 0128fc88
+1125084072 R66-M1-N4-C:J06-U01 INFO: iar 003a9260 dear 01290878
+1125084124 R76-M0-N1-C:J02-U11 INFO: 773760 double-hummer alignment exceptions
+1125084127 R66-M1-ND-C:J15-U01 INFO: iar 003a929c dear 01291228
+1125084143 R67-M1-N8-C:J02-U11 INFO: iar 003a929c dear 01291708
+1125084172 R67-M1-N6-C:J02-U11 INFO: iar 003a92a0 dear 013611f8
+1125084224 R67-M1-N1-C:J03-U11 INFO: iar 003a92a0 dear 012902f8
+1125084274 R77-M0-N2-C:J06-U01 INFO: iar 003a9260 dear 00ef83b8
+1125084296 R67-M0-ND-C:J02-U01 INFO: iar 003a9254 dear 01299f08
+1125084314 R74-M0-ND-C:J09-U11 INFO: iar 003a9260 dear 00ef6c38
+1125084379 R66-M0-N0-C:J16-U01 INFO: iar 003a9258 dear 0136bd38
+1125084396 R64-M0-NB-C:J15-U01 INFO: 1524480 double-hummer alignment exceptions
+1125084400 R65-M0-N3-C:J04-U01 INFO: 1524480 double-hummer alignment exceptions
+1125084423 R60-M0-N6-C:J09-U11 INFO: 1524480 double-hummer alignment exceptions
+1125084431 R66-M1-ND-C:J09-U11 INFO: iar 003a9260 dear 012979b8
+1125084437 R67-M0-NB-C:J12-U11 INFO: iar 003a9260 dear 0129a9a8
+1125084446 R67-M0-N8-C:J06-U11 INFO: iar 003a9260 dear 01299e48
+1125084490 R66-M0-N9-C:J10-U01 INFO: iar 003a929c dear 0136b2d8
+1125084517 R77-M0-N8-C:J09-U01 INFO: iar 003a9260 dear 00e24bd8
+1125084553 R60-M0-NF-C:J10-U11 INFO: iar 003a9260 dear 00f2a468
+1125084580 R67-M1-N1-C:J05-U11 INFO: iar 003a92a0 dear 0129a488
+1125084639 R65-M1-NC-C:J09-U01 INFO: iar 003a9260 dear 00f29b68
+1125084695 R64-M0-N1-C:J02-U01 INFO: iar 003a926c dear 00f2b078
+1125087561 R14-M1-N5-C:J12-U11 INFO: CE sym 0, at 0x12af93a0, mask 0x08
+1125114716 R74-M1-N0-C:J12-U01 INFO: 1 ddr errors(s) detected and corrected on rank 0, symbol 28, bit 3
+1125149105 R36-M0-N5-C:J03-U01 INFO: CE sym 23, at 0x03f89c00, mask 0x10
+1125193792 R11-M1-N7 ERROR: Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1125209512 R14-M1-N0-C:J07-U11 INFO: CE sym 10, at 0x01d7a160, mask 0x10
+1125219517 R77-M1-NF-C:J02-U11 INFO: 156055738 double-hummer alignment exceptions
+1125219610 R72-M1-NA-C:J04-U11 INFO: 147337410 double-hummer alignment exceptions
+1125220160 R73-M1-N8-C:J06-U01 INFO: 139632470 double-hummer alignment exceptions
+1125220268 R75-M1-N8-C:J13-U11 INFO: 155918940 double-hummer alignment exceptions
+1125220412 R74-M0-NB-C:J17-U01 INFO: iar 00149fc0 dear 00739d98
+1125220525 R76-M1-ND-C:J11-U11 INFO: iar 0014a150 dear 0072b9f8
+1125220578 R70-M0-NF-C:J06-U01 INFO: iar 0014a150 dear 00719fc8
+1125221152 R41-M0-N2-C:J10-U01 INFO: 28298332 double-hummer alignment exceptions
+1125221429 R55-M0-N2-C:J08-U01 INFO: 23768676 double-hummer alignment exceptions
+1125221591 R44-M0-NF-C:J13-U11 INFO: 34253552 double-hummer alignment exceptions
+1125221625 R44-M0-NE-C:J10-U01 INFO: 35050330 double-hummer alignment exceptions
+1125221765 R40-M0-N1-C:J10-U01 INFO: 35418742 double-hummer alignment exceptions
+1125221810 R40-M1-N6-C:J12-U11 INFO: 47332148 double-hummer alignment exceptions
+1125221900 R50-M1-NB-C:J07-U11 INFO: 39190074 double-hummer alignment exceptions
+1125221957 R57-M1-NF-C:J11-U11 INFO: 30646810 double-hummer alignment exceptions
+1125222100 R47-M0-N5-C:J15-U01 INFO: 36833864 double-hummer alignment exceptions
+1125222337 R45-M0-NA-C:J04-U11 INFO: 24669022 double-hummer alignment exceptions
+1125222384 R50-M1-N1-C:J05-U11 INFO: 38029258 double-hummer alignment exceptions
+1125222491 R42-M1-NE-C:J15-U11 INFO: 39309752 double-hummer alignment exceptions
+1125222526 R54-M0-NB-C:J07-U01 INFO: 27901852 double-hummer alignment exceptions
+1125222743 R40-M1-N4-C:J17-U01 INFO: 41097026 double-hummer alignment exceptions
+1125222925 R52-M0-N4-C:J17-U11 INFO: 54600944 double-hummer alignment exceptions
+1125223026 R54-M0-NC-C:J09-U11 INFO: 32888202 double-hummer alignment exceptions
+1125223076 R41-M1-N3-C:J15-U11 INFO: iar 0014a150 dear 0098d458
+1125223213 R54-M1-ND-C:J08-U11 INFO: iar 0014a150 dear 0098e178
+1125223360 R51-M1-N9-C:J10-U01 INFO: iar 0014a150 dear 00998588
+1125223505 R45-M1-ND-C:J16-U11 INFO: iar 0014a150 dear 00991c88
+1125223673 R40-M0-N1-C:J16-U01 INFO: iar 00149ee0 dear 009a2788
+1125223882 R57-M0-N1-C:J16-U01 INFO: iar 00149f88 dear 0099be48
+1125223894 R56-M1-N9-C:J14-U01 INFO: iar 0014a150 dear 00a53af8
+1125223914 R51-M0-N6-C:J15-U01 INFO: iar 0014a150 dear 009b9288
+1125224157 R52-M0-N6-C:J10-U11 INFO: iar 0014a150 dear 009a50f8
+1125224175 R52-M1-N6-C:J13-U01 INFO: iar 0014a150 dear 0098cdc8
+1125224247 R45-M0-N1-C:J14-U11 INFO: iar 00149ee0 dear 0099e5e8
+1125224255 R43-M1-NE-C:J16-U01 INFO: iar 0014a150 dear 00991c88
+1125224269 R45-M0-ND-C:J09-U01 INFO: iar 0014a150 dear 009829b8
+1125224445 R45-M0-N6-C:J14-U01 INFO: iar 00149f88 dear 00996f88
+1125224451 R44-M1-NB-C:J13-U01 INFO: iar 0014a1e4 dear 0099e6c8
+1125224452 R44-M1-NB-C:J14-U11 INFO: iar 0014a150 dear 009a2998
+1125225358 R54-M0-NC-I:J18-U01 INFO: NFS Mount failed on bglio716, slept 15 seconds, retrying (1)
+1125225361 R05-M0-NC-I:J18-U11 INFO: NFS Mount failed on bglio91, slept 15 seconds, retrying (1)
+1125238008 R30-M0-N7-C:J09-U01 INFO: CE sym 26, at 0x07a95e80, mask 0x10
+1125248393 R00-M0-N4-C:J06-U11 INFO: 3 ddr errors(s) detected and corrected on rank 0, symbol 18, bit 0
+1125379628 R26-M0-NC-I:J18-U01 INFO: ciod: generated 64 core files for program IMB-MPI1.2MB_perf
+1125479181 R00-M1-NB-C:J02-U01 INFO: CE sym 35, at 0x1317cee0, mask 0x10
+1125552593 R42-M1-NC-I:J18-U11 FATAL: Lustre mount FAILED : bglio559 : point /p/gb1
+1125552643 R25-M1-N4-I:J18-U01 FATAL: Lustre mount FAILED : bglio344 : point /p/gb1
+1125593559 R14-M1-N7-C:J10-U01 INFO: 4 ddr errors(s) detected and corrected on rank 0, symbol 29, bit 4
+1125668117 R72-M1-N4-I:J18-U01 FATAL: ciod: LOGIN chdir(/bglscratch/bwallen/SWL/SYS-CALLS/testcases/kernel/syscalls/truncate) failed: No such file or directory
+1125690043 R02-M1-N8-I:J18-U01 FATAL: Lustre mount FAILED : bglio46 : point /p/gb1
+1125692642 R10-M1-N4-I:J18-U01 FATAL: Lustre mount FAILED : bglio136 : point /p/gb1
+1125694345 R04-M0-NC-I:J18-U11 FATAL: Lustre mount FAILED : bglio75 : point /p/gb1
+1125701454 R63-M1-N0 INFO: Node card VPD check: U11 node in processor card slot J18 do not match. VPD ecid 04CC81389C2FFFFF03071B7048DF, found 04D780871F2FFFFF08031BD046E2
+1125730913 R06-M1-N6-C:J15-U01 INFO: 1 torus receiver x+ input pipe error(s) (dcr 0x02ec) detected and corrected
+1125749350 R62-M0-NC-I:J18-U11 FATAL: ciod: LOGIN chdir(/LAPACK_440d/BLAS) failed: No such file or directory
+1125759503 R55-M1-NC-I:J18-U01 FATAL: Lustre mount FAILED : bglio736 : point /p/gb1
+1125797779 R03-M0-N3-C:J02-U11 INFO: CE sym 33, at 0x00dbd200, mask 0x80
+1125817576 R70-M1-NC-C:J09-U11 INFO: CE sym 26, at 0x146ad540, mask 0x10
+1125871271 R24-M1-NC-I:J18-U01 FATAL: Lustre mount FAILED : bglio336 : point /p/gb1
+1126180040 R75-M0-N8-C:J10-U01 INFO: CE sym 21, at 0x04d64dc0, mask 0x80
+1126202752 R01-M1-N4-I:J18-U11 FATAL: Lustre mount FAILED : bglio23 : point /p/gb1
+1126211891 R63-M1-NC-I:J18-U11 INFO: ciod: pollControlDescriptors: Detected the debugger died.
+1126211906 R62-M1-NC-I:J18-U11 INFO: ciod: In packet from node 91.0 (R62-M1-Nf-C:J03-U11), message code 2 is not 3 or 4294967295 (softheader=003b005b 00030000 00000001 00000000)
+1126267442 R13-M0-N2-C:J09-U01 INFO: 1 torus receiver y+ input pipe error(s) (dcr 0x02ee) detected and corrected
+1126272208 R50-M0-NF-C:J10-U01 INFO: 1 ddr errors(s) detected and corrected on rank 0, symbol 3, bit 6
+1126275477 R03-M1-N6-C:J11-U11 INFO: CE sym 6, at 0x1880a8e0, mask 0x40
+1126421175 R16-M0-NC-I:J18-U01 FATAL: ciod: Error loading /bgl/apps/swl-prep/rky-swl/MPI-PERF/IMB/perf_tests/IMB-MPI1.5124KB: invalid or missing program image, No such file or directory
+1126434160 R43-M0-N8-I:J18-U11 FATAL: ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:45713: Link has been severed
+1126526629 R20-M1-N8-C:J13-U11 INFO: suppressing further interrupts of same type
+1126539103 R41-M1-N4-I:J18-U11 FATAL: ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:41304: Link has been severed
+1126539106 R53-M1-N0-I:J18-U01 FATAL: ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:41217: Link has been severed
+1126587645 R63-M1-NC-C:J06-U01 INFO: total of 1 ddr error(s) detected and corrected
+1126627325 R30-M0-N4-I:J18-U01 FATAL: Lustre mount FAILED : bglio388 : point /p/gb1
+1126798111 R72-M1-N0-I:J18-U01 FATAL: ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:37916: Link has been severed
+1126894078 R37-M0-NF-C:J07-U01 INFO: CE sym 25, at 0x1a544020, mask 0x40
+1126969026 UNKNOWN_LOCATION INFO: Ido chip status changed: FF:F2:9F:15:7B:E0:00:0D:60:EA:84:1F ip=10.7.0.130 v=13 t=1 status=M Sat Sep 17 07:49:04 PDT 2005
+1126979315 R76-M1-N8 ERROR: Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+1127078365 R71-M1-N8-C:J17-U11 INFO: CE sym 9, at 0x123b6ca0, mask 0x20
+1127147534 R01-M0-NC-I:J18-U01 FATAL: ciod: LOGIN chdir(/home/spelce1/UMT2K/umt2k/ckpt_umt2k_src/TEST/NEW_TEST) failed: No such file or directory
+1127147540 R77-M0-NC-I:J18-U11 FATAL: ciod: LOGIN chdir(/home/spelce1/UMT2K/umt2k/ckpt_umt2k_src/TEST/NEW_TEST) failed: No such file or directory
+1127154489 R47-M0-N4-C:J07-U01 INFO: CE sym 8, at 0x0a2ae600, mask 0x10
+1127163833 R32-M1-N0-I:J18-U01 FATAL: ciod: LOGIN chdir(/home/yates/SWL_tests/BGL64k_SWL_tests_develop/MPI-VAL/MPITs_v050902/rundir) failed: No such file or directory
+1127242650 R05-M0-NA INFO: Node card VPD check: U01 node in processor card slot J15 do not match. VPD ecid 04DE7DB80D7BFFFF04051B70D8D9, found 04DE7DF2D37BFFFF09081B6088D9
+1127243163 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243213 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243214 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243216 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243219 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243219 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243221 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243228 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243349 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243352 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243360 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243361 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243367 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243377 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243379 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243411 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243412 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243509 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243510 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243514 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243528 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243531 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243536 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127243560 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127244289 R05-M0-N6 INFO: Node card VPD check: U11 node in processor card slot J17 do not match. VPD ecid 04D97DB7937BFFFF05071B7054DA, found 04D081A3892FFFFF0D0B1C505AF3
+1127245515 R26-M0-N7 INFO: Node card VPD check: U01 node in processor card slot J08 do not match. VPD ecid 075F04E8A27BFFFF07021C3096ED, found 04D78137922FFFFF040E1C3052ED
+1127248868 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127248870 nan ERROR: idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)
+1127264122 R27-M0-N8-I:J18-U11 FATAL: ciod: Error loading /home/yates//bandwidth.rts: invalid or missing program image, No such file or directory
+1127264333 R45-M0-N0-I:J18-U01 FATAL: ciod: Error loading /home/yates//torus-latency.rts: invalid or missing program image, No such file or directory
+1127264347 R72-M0-N8-I:J18-U01 FATAL: ciod: Error loading /home/yates//torus-latency.rts: invalid or missing program image, No such file or directory
+1127264397 R34-M1-N8-I:J18-U01 FATAL: ciod: Error loading /home/yates//torus-latency.rts: invalid or missing program image, No such file or directory
+1127264475 R44-M1-NC-I:J18-U01 FATAL: ciod: Error loading /home/yates//broadcast.rts: invalid or missing program image, No such file or directory
+1127264516 R05-M0-N1-C:J06-U11 FATAL: rts: bad message header: expecting type 57 instead of type 3 (softheader=00131db8 81aa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1127264866 R73-M1-NC-I:J18-U11 FATAL: ciod: Error loading /bgl/apps/SWL/performance/MINIBEN//bandwidth.rts: invalid or missing program image, No such file or directory
+1127265034 R26-M1-N8-I:J18-U01 FATAL: ciod: Error loading /bgl/apps/SWL/performance/MINIBEN//torus-latency.rts: invalid or missing program image, No such file or directory
+1127265314 R27-M1-N4-I:J18-U01 FATAL: ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.05) failed: No such file or directory
+1127265535 R23-M1-N8-I:J18-U11 FATAL: ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.05) failed: No such file or directory
+1127265666 R54-M1-N4-I:J18-U11 FATAL: ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.01) failed: No such file or directory
+1127265731 R16-M1-N4-I:J18-U11 FATAL: ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.08) failed: No such file or directory
+1127265777 R62-M1-N8-I:J18-U01 FATAL: ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.01) failed: No such file or directory
+1127356175 R23-M0-N5-C:J12-U01 INFO: CE sym 29, at 0x14123c20, mask 0x08
+1127380615 R63-M1-NA-C:J14-U11 INFO: total of 1 ddr error(s) detected and corrected
+1127456570 R57-M0-NB-C:J07-U11 INFO: 1 ddr errors(s) detected and corrected on rank 0, symbol 35, bit 1
+1127464994 R35-M1-NE-C:J09-U01 INFO: CE sym 26, at 0x022c3fc0, mask 0x40
+1127464998 R10-M0-N0-C:J06-U01 INFO: total of 4 ddr error(s) detected and corrected
+1127515927 R07-M0-ND-C:J16-U01 INFO: CE sym 27, at 0x166a9f20, mask 0x02
+1127592240 R06-M1-N4-C:J08-U01 INFO: CE sym 21, at 0x13d38aa0, mask 0x40
+1127668543 R66-M1-N1-C:J09-U11 INFO: CE sym 15, at 0x0bde77e0, mask 0x04
+1127756818 R64-M0-NB-C:J14-U01 INFO: CE sym 16, at 0x0149a040, mask 0x80
+1127780591 R27-M0-NC-I:J18-U11 FATAL: ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:34903: Link has been severed
+1127781971 R34-M0-N8-I:J18-U11 INFO: ciod: generated 128 core files for program /bgl/apps/SWL/stability/DDCMD//ddcMDbglV
+1127871900 R01-M0-N8-C:J02-U11 INFO: CE sym 2, at 0x0fa3d060, mask 0x08
+1127960557 R12-M1-N4-I:J18-U01 INFO: ciod: generated 64 core files for program /home/spelce1/HPCC_IBM/TomAndJeff/bin/tested_copro/tested_copro.rts
+1128027755 R03-M1-ND-C:J14-U01 INFO: critical input interrupt (unit=0x0b bit=0x06): warning for torus y+ wire
+1128034565 R20-M1-NB-C:J16-U11 INFO: CE sym 5, at 0x0e37bbe0, mask 0x40
+1128074784 R07-M0-N0-C:J09-U01 INFO: CE sym 4, at 0x18f28be0, mask 0x40
+1128090751 R63-M1-NC-C:J06-U01 INFO: CE sym 13, at 0x0397e0e0, mask 0x08
+1128114748 R11-M1-NE-C:J17-U01 INFO: CE sym 9, at 0x11b9cc60, mask 0x04
+1128170317 R73-M0-N4-I:J18-U11 FATAL: ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/Gunnels/VNM64/vnm.rts: invalid or missing program image, Permission denied
+1128375498 R23-M0-N8-C:J15-U11 INFO: CE sym 6, at 0x06ec7a20, mask 0x20
+1128382008 R63-M0-N4-I:J18-U01 INFO: ciod: generated 108 core files for program /home/spelce1/HPCC_IBM/Urgent/VNM/32K/vnm.rts
+1128457224 R53-M1-ND-C:J09-U11 INFO: CE sym 9, at 0x11f82720, mask 0x02
+1128458085 R23-M0-N8-C:J15-U11 INFO: CE sym 6, at 0x0148b640, mask 0x10
+1128510395 R62-M1-N8-I:J18-U01 FATAL: ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/VNM/64K/vnm.rts: invalid or missing program image, Permission denied
+1128597888 R56-M0-N0-I:J18-U01 FATAL: ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:53591: Link has been severed
+1128719294 R60-M1-N5-C:J09-U11 INFO: total of 2 ddr error(s) detected and corrected
+1128832666 R42-M1-ND-C:J07-U11 INFO: CE sym 20, at 0x0a508740, mask 0x02
+1128832724 R03-M1-N9-C:J09-U11 INFO: CE sym 25, at 0x06c27c60, mask 0x40
+1128832742 R53-M1-NB-C:J13-U01 INFO: total of 12 ddr error(s) detected and corrected
+1128844166 R43-M0-N9-C:J08-U11 INFO: 1 ddr errors(s) detected and corrected on rank 0, symbol 28, bit 0
+1128970806 R05-M0-N8-I:J18-U11 FATAL: ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:57673: Link has been severed
+1129158022 R23-M0-N8-C:J15-U11 INFO: CE sym 5, at 0x13253280, mask 0x04
+1129166647 R34-M1-N8-I:J18-U01 FATAL: ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image, Permission denied
+1129166670 R73-M1-NC-I:J18-U01 FATAL: ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image, Permission denied
+1129166708 R17-M1-N0-I:J18-U11 FATAL: ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image, Permission denied
+1129204934 R62-M1-N4-I:J18-U11 FATAL: ciod: Error loading /bgl/apps/followup/SPASM/spasm.254: invalid or missing program image, Permission denied
+1129204989 R44-M0-N4-I:J18-U01 FATAL: ciod: Error loading /bgl/apps/followup/SPASM/spasm.254: invalid or missing program image, Permission denied
+1129208349 R73-M0-NC-I:J18-U11 FATAL: ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/torus-latency.rts: invalid or missing program image, No such file or directory
+1129270727 R30-M0-N5-C:J05-U01 INFO: CE sym 14, at 0x17086be0, mask 0x02
+1129271439 R06-M1-NA-C:J08-U11 INFO: suppressing further interrupts of same type
+1129273479 R07-M1-NA-C:J09-U01 INFO: 4 ddr errors(s) detected and corrected on rank 0, symbol 13, bit 5
+1129273482 R53-M1-N0-C:J04-U11 INFO: 4 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected
+1129352994 R57-M1-NE-C:J12-U01 INFO: CE sym 23, at 0x1793c560, mask 0x01
+1129353114 R13-M1-N3-C:J05-U11 INFO: CE sym 14, at 0x08d4e740, mask 0x01
+1129437983 R25-M1-N0-I:J18-U01 INFO: ciod: generated 64 core files for program /home/spelce1/HPCC_IBM/Urgent/COP/64K/opt_co_dc.rts
+1129456912 R24-M0-N4-I:J18-U01 INFO: ciod: generated 58 core files for program /home/spelce1/HPCC_IBM/Urgent/COP/64K/opt_co_dc.rts
+1129501476 R71-M1-N0-I:J18-U01 FATAL: ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:47696: Link has been severed
+1129550547 R02-M0-N4-C:J04-U11 INFO: data cache search parity error detected. attempting to correct
+1129550629 R02-M0-N4-C:J04-U11 INFO: data cache search parity error detected. attempting to correct
+1129551549 R02-M0-N4-C:J04-U11 INFO: data cache search parity error detected. attempting to correct
+1129551731 R02-M0-N4-C:J04-U11 INFO: data cache search parity error detected. attempting to correct
+1129552305 R02-M0-N4-C:J04-U11 INFO: data cache search parity error detected. attempting to correct
+1129552512 R02-M0-N4-C:J04-U11 INFO: data cache search parity error detected. attempting to correct
+1129724002 R21-M1-N4-C:J10-U01 INFO: CE sym 12, at 0x18e33e80, mask 0x04
+1129724004 R13-M1-N8-C:J02-U11 INFO: CE sym 13, at 0x00f254e0, mask 0x20
+1129734520 R17-M0-N0-I:J18-U01 INFO: shutdown complete
+1129820589 R62-M0-N8-I:J18-U01 FATAL: ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image, Exec format error
+1129820611 R01-M1-NC-I:J18-U01 FATAL: ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image, Exec format error
+1129864798 R04-M0-NC-I:J18-U11 INFO: ciod: generated 64 core files for program /home/rfisher/sodscaling/flash2
+1129897177 R07-M1-N0-C:J17-U01 INFO: total of 1 ddr error(s) detected and corrected
+1130123101 R21-M1-N0-C:J10-U11 INFO: 1 ddr errors(s) detected and corrected on rank 0, symbol 17, bit 7
+1130251536 R46-M0-NC-I:J18-U11 FATAL: ciod: Error loading allreduce_int_V1R1.rts: invalid or missing program image, No such file or directory
+1130255740 R11-M1-N2-C:J09-U11 INFO: critical input interrupt (unit=0x0b bit=0x0b): warning for torus z- wire
+1130479310 R55-M0-N9-C:J06-U11 INFO: 16 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected
+1130529580 R63-M1-NF-C:J15-U11 FATAL: rts: kernel terminated for reason 1004
+1130529611 R63-M1-N5-C:J17-U01 FATAL: Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130645609 R06-M0-N9-C:J02-U01 INFO: CE sym 29, at 0x1b719940, mask 0x02
+1130675804 R65-M1-NA-C:J14-U01 INFO: CE sym 27, at 0x1b70b860, mask 0x80
+1130688037 R26-M0-N4-I:J18-U11 FATAL: ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_cpm: invalid or missing program image, Permission denied
+1130766712 R10-M0-N3-C:J07-U01 INFO: CE sym 16, at 0x18fa5d40, mask 0x80
+1130770293 R74-M1-NC-C:J15-U11 INFO: 4 ddr errors(s) detected and corrected on rank 0, symbol 24, bit 1
+1130840276 R20-M1-NF-C:J10-U01 INFO: instruction cache parity error corrected
+1131019038 R27-M1-N8-C:J16-U11 INFO: CE sym 30, at 0x1bd2b700, mask 0x04
+1131030168 R54-M1-N8-I:J18-U01 FATAL: ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/RandomAccess.64R.rts: invalid or missing program image, Permission denied
+1131036240 R06-M0-NC-I:J18-U11 FATAL: ciod: Error loading /home.old/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDGbglV: invalid or missing program image, No such file or directory
+1131036466 R15-M0-NC-I:J18-U11 FATAL: ciod: Error loading /home.old/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDGbglV: invalid or missing program image, No such file or directory
+1131057830 R60-M0-NE-C:J08-U11 INFO: iar 00106210 dear 0244c1dc
+1131057844 R61-M1-NB-C:J17-U11 INFO: 640404 floating point alignment exceptions
+1131057860 R61-M0-N3-C:J12-U11 INFO: 640404 floating point alignment exceptions
+1131057877 R60-M1-NC-C:J10-U11 INFO: iar 00106210 dear 0244c1dc
+1131057899 R61-M0-NC-C:J03-U11 INFO: iar 00106210 dear 0244c20c
+1131057913 R65-M1-NB-C:J14-U01 INFO: iar 00106228 dear 0244c1ec
+1131057950 R64-M0-N6-C:J17-U11 INFO: iar 00106210 dear 0244c20c
+1131057996 R61-M1-N5-C:J13-U11 INFO: iar 00106210 dear 0244c20c
+1131058041 R65-M1-N6-C:J11-U01 INFO: iar 00106228 dear 0244c1ec
+1131058087 R60-M1-N3-C:J11-U01 INFO: iar 00106228 dear 0244c1ec
+1131058115 R66-M0-NF-C:J12-U01 INFO: 640404 floating point alignment exceptions
+1131058125 R61-M0-N1-C:J05-U11 INFO: iar 00106228 dear 0244c21c
+1131058168 R64-M1-N5-C:J10-U11 INFO: iar 001061dc dear 0244c22c
+1131058170 R64-M1-N9-C:J15-U11 INFO: iar 001061dc dear 0244c22c
+1131058219 R60-M0-N1-C:J14-U01 INFO: iar 001061dc dear 0244c25c
+1131058229 R61-M0-N9-C:J04-U01 INFO: iar 001061dc dear 0244c22c
+1131058249 R66-M1-N8-C:J12-U01 INFO: iar 00106228 dear 0244c1ec
+1131058316 R65-M0-N1-C:J04-U01 INFO: iar 00106210 dear 0244c20c
+1131058319 R67-M0-ND-C:J03-U01 INFO: iar 00106228 dear 0244c1ec
+1131058388 R66-M0-N5-C:J04-U11 INFO: iar 001061dc dear 0244c22c
+1131058399 R64-M1-N7-C:J16-U11 INFO: iar 00105ea0 dear 0244c28c
+1131058409 R60-M1-NF-C:J12-U11 INFO: iar 00105e94 dear 02f5883c
+1131058417 R66-M0-N8-C:J11-U01 INFO: iar 001061dc dear 0244c22c
+1131058477 R65-M0-N4-C:J11-U11 INFO: iar 001061dc dear 0244c28c
+1131059142 R66-M1-N3-C:J06-U11 INFO: 640764 floating point alignment exceptions
+1131059158 R67-M0-N8-C:J02-U01 INFO: 640404 floating point alignment exceptions
+1131059209 R66-M0-N5-C:J12-U11 INFO: 640404 floating point alignment exceptions
+1131059244 R67-M0-NC-C:J16-U01 INFO: iar 00106210 dear 0244c20c
+1131059251 R66-M0-NC-C:J13-U01 INFO: iar 00106210 dear 0244c1dc
+1131059283 R67-M1-ND-C:J10-U11 INFO: iar 00106228 dear 0244c21c
+1131059308 R66-M1-N5-C:J14-U11 INFO: iar 00106210 dear 0244c1dc
+1131059401 R66-M0-N0-C:J07-U01 INFO: iar 001061dc dear 0244c25c
+1131059444 R66-M1-N9-C:J03-U11 INFO: iar 001061dc dear 0244c22c
+1131059530 R66-M1-N0-C:J17-U01 INFO: iar 00106228 dear 0244c21c
+1131059594 R66-M0-N4-C:J02-U01 INFO: iar 001061dc dear 0244c28c
+1131059607 R67-M0-N5-C:J04-U11 INFO: iar 001061dc dear 0244c28c
+1131059636 R66-M1-ND-C:J14-U11 INFO: iar 00106210 dear 0244c23c
+1131059653 R67-M1-N8-C:J16-U01 INFO: iar 00106210 dear 0244c23c
+1131059658 R66-M0-N4-C:J16-U01 INFO: iar 00106210 dear 0244c26c
+1131059703 R67-M0-N2-C:J07-U11 INFO: iar 00106228 dear 0244c24c
+1131059744 R67-M1-N8-C:J10-U11 INFO: iar 00106228 dear 0244c27c
+1131059757 R67-M1-N0-C:J09-U11 INFO: iar 00106228 dear 0244c27c
+1131059774 R67-M0-N1-C:J03-U11 INFO: iar 00106228 dear 0244c27c
+1131060122 R67-M1-NA-C:J13-U01 INFO: iar 00106568 dear 02494bbc
+1131060130 R67-M1-NF-C:J10-U01 INFO: 487476 floating point alignment exceptions
+1131060157 R66-M1-NB-C:J17-U01 INFO: 487476 floating point alignment exceptions
+1131060196 R67-M1-NA-C:J03-U11 INFO: iar 00106580 dear 02494bcc
+1131060202 R67-M0-N6-C:J04-U01 INFO: iar 00106568 dear 02494bbc
+1131060268 R67-M0-N1-C:J11-U01 INFO: iar 00106580 dear 02494bcc
+1131060284 R66-M0-NA-C:J03-U11 INFO: iar 00106534 dear 02494c0c
+1131060319 R66-M0-N7-C:J08-U01 INFO: iar 00106534 dear 02494c0c
+1131060387 R67-M0-N6-C:J03-U11 INFO: iar 00106580 dear 02494bfc
+1131060429 R66-M1-NA-C:J15-U11 INFO: iar 00106568 dear 02494bec
+1131060431 R66-M1-ND-C:J12-U11 INFO: iar 00106568 dear 02494bec
+1131060537 R67-M0-N4-C:J10-U01 INFO: iar 00106534 dear 02494c3c
+1131060539 R67-M0-N0-C:J08-U11 INFO: iar 00106580 dear 02494bfc
+1131060633 R67-M1-N8-C:J09-U11 INFO: iar 00106534 dear 02494c3c
+1131060644 R66-M1-NC-C:J04-U11 INFO: iar 00106534 dear 02494c3c
+1131060739 R67-M1-NA-C:J03-U11 INFO: iar 00106580 dear 02494c2c
+1131060806 R67-M0-N0-C:J03-U01 INFO: iar 00106580 dear 02494c2c
+1131061480 R61-M0-N8-C:J03-U01 INFO: 2354412 floating point alignment exceptions
+1131061513 R60-M0-NA-C:J13-U01 INFO: iar 00106568 dear 045e140c
+1131061592 R65-M1-N4-C:J10-U01 INFO: iar 00106580 dear 045e141c
+1131061693 R60-M0-N1-C:J04-U01 INFO: iar 00106580 dear 045e141c
+1131061732 R65-M0-N8-C:J15-U01 INFO: iar 00106580 dear 045e141c
+1131061783 R64-M1-N3-C:J05-U11 INFO: iar 00106534 dear 045e145c
+1131061828 R62-M0-N3-C:J14-U01 INFO: iar 00106568 dear 045e147c
+1131061838 R62-M0-N9-C:J12-U01 INFO: iar 00106580 dear 045e148c
+1131063447 R51-M1-NA-C:J17-U11 INFO: 2354412 floating point alignment exceptions
+1131063531 R56-M0-N7-C:J02-U01 INFO: 2354412 floating point alignment exceptions
+1131063627 R42-M0-N0-C:J14-U01 INFO: 2354412 floating point alignment exceptions
+1131063678 R41-M1-NE-C:J13-U11 INFO: 2354412 floating point alignment exceptions
+1131063752 R41-M0-N9-C:J16-U11 INFO: 2354412 floating point alignment exceptions
+1131063778 R41-M0-N5-C:J06-U01 INFO: 2354412 floating point alignment exceptions
+1131063785 R54-M1-N2-C:J06-U01 INFO: 2354412 floating point alignment exceptions
+1131063954 R51-M1-NA-C:J05-U01 INFO: 2354412 floating point alignment exceptions
+1131064150 R02-M1-NE-C:J02-U11 INFO: 2354412 floating point alignment exceptions
+1131064168 R12-M0-NB-C:J13-U01 INFO: 2354412 floating point alignment exceptions
+1131064315 R27-M1-N2-C:J10-U01 INFO: 2354412 floating point alignment exceptions
+1131064518 R06-M1-N0-C:J12-U01 INFO: 2354412 floating point alignment exceptions
+1131065141 R36-M1-N2-C:J08-U11 INFO: 2354412 floating point alignment exceptions
+1131065341 R25-M1-N5-C:J16-U01 INFO: 2354412 floating point alignment exceptions
+1131066692 R36-M1-NB-C:J09-U01 INFO: 62500 floating point alignment exceptions
+1131066789 R24-M1-ND-C:J12-U11 INFO: 62500 floating point alignment exceptions
+1131067982 R35-M1-NF-C:J13-U01 INFO: 62500 floating point alignment exceptions
+1131123526 R62-M0-N1-C:J08-U11 INFO: iar 00106570 dear 0245a10c
+1131123589 R62-M0-N6-C:J03-U01 INFO: iar 001061fc dear 02f6676c
+1131123637 R62-M0-NB-C:J09-U11 INFO: iar 00106588 dear 0245a17c
+1131125457 R62-M0-NE-C:J08-U01 INFO: iar 0010662c dear 0245ccfc
+1131125519 R62-M0-N0-C:J14-U01 INFO: iar 00106bd8 dear 0245ce0c
+1131125543 R62-M0-N4-C:J12-U11 INFO: iar 00106834 dear 0245ccfc
+1131125932 R62-M0-NE-C:J15-U01 INFO: iar 00106bd8 dear 0245cd8c
+1131125954 R62-M0-N2-C:J11-U11 INFO: iar 0010682c dear 0245ccfc
+1131125989 R62-M0-N8-C:J13-U11 INFO: iar 00106b8c dear 0245ce8c
+1131126038 R62-M0-N6-C:J10-U01 INFO: iar 00106bc0 dear 0245cd7c
+1131126144 R62-M0-NB-C:J16-U11 INFO: iar 00106bd8 dear 0245cd9c
+1131126148 R62-M0-N1-C:J02-U01 INFO: iar 00106bd8 dear 0245ceec
+1131126178 R62-M0-ND-C:J09-U01 INFO: iar 0010681c dear 02f692fc
+1131126200 R62-M0-NA-C:J15-U11 INFO: iar 00106b8c dear 0245cf5c
+1131126215 R62-M0-N6-C:J09-U11 INFO: iar 00106bc0 dear 0245cdec
+1131126633 R62-M0-N2-C:J14-U01 INFO: iar 00106600 dear 0245ccfc
+1131126699 R62-M0-N1-C:J02-U11 INFO: iar 00106bd8 dear 0245cf0c
+1131126706 R62-M0-N6-C:J16-U01 INFO: iar 00106834 dear 0245cd0c
+1131126736 R62-M0-N6-C:J15-U11 INFO: iar 00106bd8 dear 0245cf3c
+1131126738 R62-M0-N2-C:J07-U01 INFO: iar 0010686c dear 02f6930c
+1131126747 R62-M0-NC-C:J04-U01 INFO: iar 0010686c dear 02f6951c
+1131127186 R62-M0-N9-C:J08-U11 INFO: 45684 floating point alignment exceptions
+1131127207 R62-M0-N1-C:J10-U01 INFO: iar 00106704 dear 0245b80c
+1131127212 R62-M0-NF-C:J03-U01 INFO: iar 0010639c dear 0245b71c
+1131127257 R62-M0-N9-C:J10-U11 INFO: iar 00106704 dear 0245b83c
+1131127267 R62-M0-N8-C:J14-U01 INFO: iar 00106704 dear 0245d57c
+1131127308 R62-M0-NB-C:J12-U01 INFO: iar 001063a0 dear 02f67e4c
+1131127313 R62-M0-ND-C:J12-U11 INFO: iar 001064fc dear 0245b64c
+1131127319 R62-M0-N6-C:J05-U11 INFO: iar 0010671c dear 0245b72c
+1131127543 R62-M0-NC-C:J11-U01 INFO: 16604010 floating point alignment exceptions
+1131127543 R62-M0-NC-C:J06-U11 INFO: 16469355 floating point alignment exceptions
+1131127560 R62-M0-N7-C:J05-U11 INFO: iar 00106390 dear 02f67cfc
+1131127565 R62-M0-N0-C:J13-U11 INFO: iar 00106704 dear 0245b6bc
+1131127588 R62-M0-N4-C:J16-U11 INFO: iar 00106168 dear 0245b64c
+1131127609 R62-M0-N4-C:J04-U01 INFO: iar 0010635c dear 0245b62c
+1131127613 R62-M0-NE-C:J13-U01 INFO: iar 00106704 dear 0245b77c
+1131127672 R62-M0-NE-C:J02-U11 INFO: iar 001064fc dear 0245b64c
+1131128050 R62-M0-N4-C:J03-U01 INFO: 16736445 floating point alignment exceptions
+1131128061 R62-M0-N7-C:J16-U01 INFO: iar 001061cc dear 02f6667c
+1131128074 R62-M0-N9-C:J08-U11 INFO: iar 00105fd4 dear 0245a09c
+1131128083 R62-M0-N4-C:J14-U01 INFO: iar 00105fd4 dear 0245a09c
+1131128104 R62-M0-N0-C:J17-U01 INFO: iar 001061e4 dear 0245a09c
+1131128125 R62-M0-N0-C:J16-U01 INFO: iar 001061ec dear 02f6668c
+1131128169 R62-M0-N7-C:J06-U01 INFO: iar 001061ec dear 02f6668c
+1131129646 R62-M0-N6-C:J16-U11 INFO: 74350836 floating point alignment exceptions
+1131129716 R62-M0-NC-C:J15-U11 INFO: iar 0010650c dear 0246a95c
+1131130552 R62-M0-NC-C:J05-U01 INFO: iar 00106988 dear 02f7bd6c
+1131130593 R62-M0-N0-C:J15-U01 INFO: iar 00106cf8 dear 0246f9fc
+1131131501 R63-M0-N8-C:J03-U11 INFO: 54004554 floating point alignment exceptions
+1131131553 R63-M0-NE-C:J11-U11 INFO: iar 001069a8 dear 02f7bd7c
+1131139987 R63-M0-N8-C:J16-U11 INFO: iar 001066ac dear 0252524c
+1131140000 R63-M0-ND-C:J15-U01 INFO: iar 001066c4 dear 0252528c
+1131141199 R63-M0-NB-C:J05-U11 INFO: iar 001066c4 dear 025251fc
+1131141205 R63-M0-N3-C:J16-U11 INFO: iar 00106678 dear 0252523c
+1131141902 R62-M0-N1-C:J04-U01 INFO: iar 001007b8 dear 065b4c7c
+1131141926 R62-M0-NB-C:J02-U01 INFO: iar 001007a8 dear 065b4cac
+1131142179 R60-M1-N0-I:J18-U01 INFO: ciod: generated 128 core files for program /g/g20/valone1/SPaSM-shock/SPaSM_mpi
+1131142353 R62-M0-NC-C:J16-U01 INFO: iar 001066ac dear 0252523c
+1131142377 R62-M0-N4-C:J15-U11 INFO: iar 001066c4 dear 0252527c
+1131142767 R62-M0-N0-C:J04-U11 INFO: iar 001066c4 dear 0252523c
+1131142811 R62-M0-NC-C:J06-U11 INFO: iar 001066ac dear 025252bc
+1131142817 R62-M0-N5-C:J16-U11 INFO: iar 001066c4 dear 0252529c
+1131147217 R63-M0-NF-C:J05-U01 INFO: 2667384 floating point alignment exceptions
+1131147227 R63-M0-N1-C:J05-U11 INFO: iar 00106570 dear 0245a5bc
+1131147251 R63-M0-N1-C:J16-U01 INFO: iar 00106570 dear 0245a5ec
+1131147273 R63-M0-N4-C:J05-U11 INFO: iar 0010653c dear 0245a63c
+1131148249 R63-M0-N0-C:J03-U01 INFO: 407736 floating point alignment exceptions
+1131148435 R63-M0-N7-C:J09-U01 INFO: 428412 floating point alignment exceptions
+1131148446 R63-M0-N4-C:J02-U01 INFO: 441348 floating point alignment exceptions
+1131148482 R63-M0-N0-C:J17-U01 INFO: iar 001061d4 dear 024696cc
+1131148486 R63-M0-N2-C:J03-U11 INFO: iar 00106348 dear 024696bc
+1131148496 R63-M0-NF-C:J08-U11 INFO: iar 00106204 dear 02f75edc
+1131156131 R45-M1-NA-C:J11-U01 INFO: CE sym 21, at 0x111d8c60, mask 0x01
+1131163283 R63-M0-N3-C:J02-U11 INFO: instruction cache parity error corrected
+1131206251 R17-M0-N8-C:J05-U01 INFO: CE sym 34, at 0x11e7ed80, mask 0x80
+1131218683 R11-M1-N4-C:J03-U01 INFO: 2 ddr errors(s) detected and corrected on rank 0, symbol 18, bit 6
+1131347286 R63-M0-N3-C:J02-U11 INFO: instruction cache parity error corrected
+1131366730 R50-M0-N4-I:J18-U01 FATAL: ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image, Permission denied
+1131366881 R60-M0-N0-I:J18-U01 FATAL: ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image, Permission denied
+1131408782 R63-M0-N6-C:J15-U01 INFO: iar 00105e88 dear 02f6436c
+1131408830 R63-M0-N9-C:J10-U01 INFO: iar 00105e84 dear 0244f29c
+1131458788 R74-M0-N1-C:J05-U01 INFO: CE sym 30, at 0x042358a0, mask 0x20
+1131470027 R27-M0-N0-I:J18-U11 INFO: ciod: generated 128 core files for program /g/g24/germann2/BGL-demo/SPaSM_mpi
+1131473353 R62-M0-N2-C:J13-U11 INFO: iar 001061e8 dear 0247012c
+1131473377 R62-M0-NA-C:J04-U11 INFO: iar 001061e8 dear 0247015c
+1131473384 R62-M0-NA-C:J09-U01 INFO: iar 00106200 dear 0247016c
+1131473391 R62-M0-NE-C:J03-U11 INFO: iar 001061b4 dear 024701dc
+1131473771 R62-M0-N4-C:J11-U11 INFO: iar 001061e8 dear 0247015c
+1131473802 R62-M0-NC-C:J14-U01 INFO: iar 00106200 dear 0247019c
+1131473805 R62-M0-NE-C:J09-U01 INFO: iar 00105e84 dear 024701dc
+1131473825 R62-M0-N1-C:J10-U01 INFO: iar 00106200 dear 0247019c
+1131474292 R62-M0-NB-C:J12-U01 INFO: iar 001061e8 dear 0247015c
+1131474344 R62-M0-N8-C:J16-U01 INFO: iar 001061e8 dear 0247018c
+1131477523 R62-M0-N9-C:J09-U11 INFO: iar 001061e8 dear 0247015c
+1131477528 R62-M0-N8-C:J06-U11 INFO: iar 001061e8 dear 0247012c
+1131477539 R62-M0-N2-C:J05-U11 INFO: iar 001061b4 dear 0247017c
+1131477542 R62-M0-ND-C:J03-U11 INFO: iar 001061b4 dear 024701ac
+1131477544 R62-M0-N4-C:J14-U11 INFO: iar 001061b4 dear 0247017c
+1131477559 R62-M0-ND-C:J05-U01 INFO: iar 00106200 dear 0247019c
+1131478044 R63-M0-N3-C:J02-U11 INFO: iar 001061e8 dear 0247015c
+1131478061 R63-M0-NB-C:J06-U11 INFO: iar 001061b4 dear 0247017c
+1131484346 R63-M0-N6-C:J13-U01 INFO: 19220208 floating point alignment exceptions
+1131499523 R62-M0-N2-C:J09-U11 FATAL: Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131525612 R62-M0-N4-C:J13-U01 FATAL: program interrupt: privileged instruction...0
+1131579563 R62-M0-N1-C:J04-U11 INFO: iar 00106ba0 dear 0246de3c
+1131579941 R62-M0-N0-C:J02-U01 INFO: iar 00106b98 dear 0246dd9c
+1131579963 R62-M0-NC-C:J05-U11 INFO: iar 00106c0c dear 0246de1c
+1131582295 R63-M0-NA-C:J09-U01 INFO: 5302707 floating point alignment exceptions
+1131582323 R63-M0-N8-C:J14-U11 INFO: iar 00106448 dear 0246dbbc
+1131582345 R63-M0-N5-C:J05-U11 INFO: iar 00106448 dear 0246db5c
+1131582346 R63-M0-N0-C:J03-U11 INFO: iar 00106448 dear 0246dbec
+1131582509 R61-M0-NB-C:J05-U01 INFO: CE sym 25, at 0x10e1bce0, mask 0x40
+1131583004 R63-M0-NF-C:J05-U11 INFO: iar 00106288 dear 02f7a0fc
+1131590854 R63-M0-N6-C:J13-U01 INFO: iar 00113890 dear 0fee9c3c
+1131590868 R63-M0-N1-C:J07-U01 INFO: iar 00113898 dear 0fee9c4c
+1131590881 R63-M0-N4-C:J05-U11 INFO: iar 00113898 dear 0fee9c4c
+1131601567 R51-M1-N4-C:J07-U01 INFO: 5 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected
+1131601592 R45-M1-NA-C:J10-U01 INFO: CE sym 9, at 0x12870760, mask 0x40
+1131624435 R22-M1-N1-C:J17-U11 INFO: 3 L3 EDRAM error(s) (dcr 0x0157) detected and corrected
+1131624438 R65-M0-N2-C:J05-U11 INFO: CE sym 6, at 0x00e462c0, mask 0x02
+1131624456 R61-M0-NB-C:J05-U01 INFO: CE sym 25, at 0x00e19cc0, mask 0x10
+1131632923 R34-M1-N4-C:J10-U01 INFO: 2 ddr errors(s) detected and corrected on rank 0, symbol 4, bit 4
+1131653512 R21-M1-N3-C:J03-U11 INFO: CE sym 15, at 0x1bb2fe80, mask 0x02
+1131680322 R63-M0-N6-C:J12-U11 FATAL: rts: kernel terminated for reason 1004
+1131692621 R63-M0-NF-C:J06-U01 INFO: iar 00106274 dear 0246da8c
+1131692641 R63-M0-N4-C:J04-U11 INFO: iar 00106448 dear 0246dacc
+1131692649 R63-M0-N3-C:J14-U11 INFO: iar 00106298 dear 02f7a18c
+1131693152 R63-M0-N5-C:J12-U01 INFO: 488205 floating point alignment exceptions
+1131712792 R31-M0-N8-I:J18-U01 INFO: ciod: generated 128 core files for program /bgl/apps/followup/SPaSM_static/SPaSM_mpi.new_comp
+1131720323 R02-M1-N4-C:J06-U01 INFO: 1 ddr errors(s) detected and corrected on rank 0, symbol 8, bit 7
+1131764302 R23-M1-N0-C:J08-U11 INFO: CE sym 25, at 0x12127ee0, mask 0x10
+1132021523 R46-M1-NE-C:J14-U11 FATAL: rts: kernel terminated for reason 1004
+1132021541 R46-M1-NF-C:J11-U01 FATAL: Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132021542 R46-M1-N1-C:J02-U01 FATAL: Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132062083 R05-M0-NC-C:J04-U11 INFO: critical input interrupt (unit=0x0b bit=0x0a): warning for torus z+ wire, suppressing further interrupts of same type
+1132067079 R17-M1-N0-I:J18-U01 INFO: ciod: generated 128 core files for program /bgl/apps/followup/SPaSM_static/SPaSM_mpi.rel2
+1132069983 R34-M1-N4-I:J18-U01 INFO: ciod: generated 64 core files for program /bgl/apps/followup/hellow/a.out.1111
+1132070039 R15-M0-NC-I:J18-U11 INFO: ciod: generated 64 core files for program /bgl/apps/followup/hellow/a.out.1111
+1132076597 R23-M0-N7 INFO: Node card VPD check: U11 node in processor card slot J04 do not match. VPD ecid 04D58088CB2FFFFF08031C104CE9, found 04CA80D8012FFFFF08061A8094CB
+1132076952 R67-M1-NA INFO: Node card VPD check: U11 node in processor card slot J10 do not match. VPD ecid 07570DD8002FFFFF09031B7090E2, found 04D480D8482FFFFF0A071BA052DE
+1132111168 R57-M0-NA-C:J13-U11 FATAL: rts: kernel terminated for reason 1004
+1132111278 R57-M0-N8-C:J12-U01 FATAL: Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132232535 R64-M1-N4-I:J18-U01 FATAL: ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM.460-1115: invalid or missing program image, Permission denied
+1132234526 R72-M1-NE-C:J04-U01 INFO: 18507114 torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over 198 seconds
+1132236972 R72-M1-N6-C:J04-U01 INFO: 26741629 torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over 268 seconds
+1132320935 R02-M1-NC-I:J18-U01 INFO: ciod: Received signal 15, code=0, errno=0, address=0x000001b0
+1132326853 R63-M1-N4-I:J18-U01 INFO: ciod: Received signal 15, code=0, errno=0, address=0x000001b0
+1132328434 R35-M0-NC-I:J18-U11 INFO: ciod: Received signal 15, code=0, errno=0, address=0x000001b0
+1132546059 R25-M0-N2-C:J11-U11 INFO: CE sym 28, at 0x1efc7020, mask 0x20
+1132549418 R55-M1-N8-I:J18-U11 INFO: ciod: generated 128 core files for program /g/g90/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDbglV
+1132549487 R06-M1-N8-I:J18-U01 INFO: ciod: generated 128 core files for program /g/g90/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDbglV
+1132575798 R04-M1-N8-I:J18-U01 FATAL: Lustre mount FAILED : bglio78 : block_id : location
+1132579592 R10-M1-N0-I:J18-U11 INFO: ciod: Received signal 15, code=0, errno=0, address=0x000001b0
+1132584089 R26-M0-N0-I:J18-U11 INFO: MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)
+1132584495 R26-M0-N0-I:J18-U11 INFO: MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)
+1132584963 R26-M0-N0-I:J18-U11 INFO: MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)
+1132585070 R26-M0-N0-I:J18-U11 INFO: MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)
+1132585230 R26-M0-N0-I:J18-U11 INFO: MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)
+1132586440 R26-M0-N0-I:J18-U11 INFO: MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)
+1132586451 R26-M0-N0-I:J18-U11 INFO: MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)
+1132596009 R16-M0-NC-I:J18-U01 INFO: ciod: Received signal 15, code=0, errno=0, address=0x000001b2
+1132600084 R14-M0-NC-I:J18-U11 FATAL: ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41554, Connection timed out
+1132609258 R13-M1-N4-I:J18-U11 FATAL: ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52839, Connection reset by peer
+1132609277 R55-M0-NC-I:J18-U01 INFO: ciod: Received signal 15, code=0, errno=0, address=0x0000044a
+1132609304 R22-M0-N0-I:J18-U01 FATAL: ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52930, Connection reset by peer
+1132609314 R36-M1-N4-I:J18-U11 INFO: ciod: Received signal 15, code=0, errno=0, address=0x0000044d
+1132609342 R65-M1-NC-I:J18-U11 FATAL: ciod: Error reading message prefix on CioStream socket to 172.16.96.116:53387, Connection reset by peer
+1132613223 R16-M1-NC-I:J18-U11 FATAL: ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41060, Connection timed out
+1132613769 R66-M1-N8-I:J18-U01 FATAL: ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41587, Connection reset by peer
+1132675121 R26-M1-N1-C:J02-U11 INFO: CE sym 14, at 0x136cd5e0, mask 0x04
+1132841276 R03-M1-NF-C:J07-U01 FATAL: dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x40002000
+1132853885 R14-M0-N8-I:J18-U01 FATAL: ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41534, Link has been severed
+1132870645 R77-M0-N4-I:J18-U01 INFO: ciod: Received signal 15, code=0, errno=0, address=0x00001a12
+1132912103 R45-M1-N0-I:J18-U01 FATAL: ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54780, Link has been severed
+1132969138 R76-M0-NC-I:J18-U11 INFO: ciod: Received signal 15, code=0, errno=0, address=0x000001f8
+1133009333 R54-M0-N0-I:J18-U01 FATAL: ciod: Error reading message prefix on CioStream socket to 172.16.96.116:60243, Link has been severed
+1133011728 R72-M1-NC-I:J18-U11 INFO: ciod: Received signal 15, code=0, errno=0, address=0x000001f5
+1133011767 R01-M1-NC-I:J18-U11 INFO: ciod: Received signal 15, code=0, errno=0, address=0x000001f2
+1133044906 R33-M1-N4-I:J18-U11 FATAL: ciod: Error reading message prefix on CioStream socket to 172.16.96.116:47189, Link has been severed
+1133051996 R03-M1-NF-C:J07-U01 FATAL: r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd000
+1133052171 R14-M1-NC-I:J18-U01 INFO: ciod: Received signal 15, code=0, errno=0, address=0x000001f2
+1133150722 R15-M0-N0-I:J18-U11 INFO: ciod: Received signal 15, code=0, errno=0, address=0x000001f5
+1133280774 R55-M0-N9-C:J06-U11 INFO: 13 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over 4562 seconds
+1133306285 R60-M0-N4-I:J18-U01 INFO: ciod: Received signal 15, code=0, errno=0, address=0x000001f2
+1133306326 R21-M0-N8-I:J18-U01 INFO: ciod: Received signal 15, code=0, errno=0, address=0x000001f2
+1133310116 R67-M1-N7 INFO: Node card VPD check: U01 node in processor card slot J05 do not match. VPD ecid 04D37DF2DE7BFFFF0D081AF0DAD2, found 04DD80740E2FFFFF0A0C19D0CEBD
+1133317778 R01-M1-NC-I:J18-U01 INFO: ciod: Received signal 15, code=0, errno=0, address=0x000001f5
+1133367847 R74-M1-NB-C:J02-U11 INFO: CE sym 1, at 0x01d7eaa0, mask 0x02
+1133409475 R15-M1-NC-I:J18-U01 FATAL: ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133409779 R13-M1-NC-I:J18-U01 FATAL: ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+1133447694 R11-M1-ND-C:J08-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133447703 R11-M1-NA-C:J13-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133447722 R11-M1-NF-C:J07-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133447728 R06-M0-N3-C:J13-U11 INFO: 10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133447738 R10-M0-N7-C:J08-U11 INFO: 10740 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133447761 R17-M0-N8-C:J09-U11 INFO: 10744 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133447763 R06-M0-N7-C:J05-U01 INFO: 10700 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133447776 R16-M0-N4-C:J07-U11 INFO: 10732 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133447777 R16-M0-N4-C:J06-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133447789 R07-M1-N0-C:J07-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133447940 R36-M0-NB-C:J12-U01 INFO: 10655 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133447941 R13-M0-NA-C:J08-U01 INFO: 10650 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133447958 R13-M1-N9-C:J02-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133447964 R34-M0-N8-C:J06-U11 INFO: 10686 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448039 R55-M1-N5-C:J04-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133448052 R33-M1-N7-C:J12-U01 INFO: 10674 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448053 R37-M0-N3-C:J11-U11 INFO: 10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448074 R56-M0-NA-C:J12-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133448080 R56-M0-N1-C:J05-U11 INFO: 10730 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448086 R37-M1-NE-C:J04-U11 INFO: 10686 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448090 R50-M0-N9-C:J11-U01 INFO: 10692 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448110 R56-M0-N9-C:J08-U01 INFO: 10660 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448160 R37-M1-N0-C:J16-U11 INFO: 10752 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448166 R32-M0-N4-C:J17-U11 INFO: 10732 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448168 R57-M1-N0-C:J02-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133448168 R32-M1-NC-C:J16-U11 INFO: 10676 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448263 R52-M0-N5-C:J10-U01 INFO: 10752 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448278 R52-M0-N1-C:J10-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133448296 R72-M0-NF-C:J15-U11 INFO: 10728 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448298 R73-M1-N7-C:J04-U01 INFO: 10712 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448302 R75-M0-N4-C:J12-U01 INFO: 10718 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448306 R53-M0-N1-C:J11-U11 INFO: 10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448310 R76-M1-NC-C:J16-U01 INFO: 10644 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448393 R66-M0-N2-C:J17-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133448397 R66-M0-NB-C:J17-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133448410 R41-M0-NB-C:J05-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133448439 R73-M0-N2-C:J11-U11 INFO: 10738 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448448 R73-M0-NE-C:J14-U01 INFO: 10646 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448466 R44-M0-N3-C:J06-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133448468 R77-M0-N5-C:J04-U11 INFO: 10710 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448469 R61-M0-N9-C:J16-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133448479 R64-M0-N2-C:J16-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133448491 R45-M0-N4-C:J13-U01 INFO: 10706 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448493 R64-M0-N1-C:J06-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133448498 R64-M0-N8-C:J05-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133448588 R46-M1-N5-C:J16-U01 INFO: 10765 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448628 R42-M0-NA-C:J09-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133448653 R27-M1-N9-C:J09-U01 INFO: 10698 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448656 R27-M1-NA-C:J05-U11 INFO: 10744 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448658 R27-M0-NE-C:J17-U11 INFO: 10740 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448674 R26-M1-NF-C:J09-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133448686 R45-M1-N8-C:J14-U11 INFO: 10684 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448690 R26-M1-N8-C:J08-U01 INFO: 10652 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133448762 R25-M0-N4-C:J13-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133448791 R22-M0-ND-C:J17-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133448800 R23-M1-NF-C:J15-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133449350 R20-M1-N5-C:J04-U01 INFO: 1966 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133454553 R16-M0-N2-C:J07-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133454582 R14-M1-NA-C:J11-U11 INFO: 10738 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133454584 R17-M0-N6-C:J06-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133454588 R06-M0-N2-C:J09-U01 INFO: 10714 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133454591 R15-M0-N3-C:J09-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133454594 R04-M0-N6-C:J10-U01 INFO: 10718 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133454601 R14-M1-N1-C:J10-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133454611 R16-M1-ND-C:J05-U11 INFO: 10698 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133454624 R00-M0-N4-C:J09-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133454630 R00-M0-N0-C:J10-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133454634 R01-M0-NC-C:J12-U01 INFO: 10644 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133454715 R11-M1-N3-C:J10-U01 INFO: 10752 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133454722 R11-M1-ND-C:J09-U01 INFO: 10698 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133454732 R07-M1-N7-C:J07-U01 INFO: 10666 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133454734 R07-M1-N7-C:J14-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133454737 R50-M1-NA-C:J11-U11 INFO: 10738 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133454739 R05-M1-N2-C:J08-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133454748 R36-M1-NA-C:J05-U11 INFO: 10744 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133454756 R07-M0-NF-C:J13-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133454783 R05-M0-N5-C:J08-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133454886 R32-M0-NB-C:J14-U01 INFO: 10663 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133454886 R35-M0-N5-C:J16-U01 INFO: 10766 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133454908 R32-M1-N7-C:J02-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133454956 R56-M1-NE-C:J11-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133454968 R55-M1-NE-C:J16-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133454977 R35-M0-NC-C:J15-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133455006 R55-M1-N8-C:J03-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133455058 R53-M1-N9-C:J11-U11 INFO: 10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455064 R52-M0-N5-C:J04-U01 INFO: 10680 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455066 R77-M1-N7-C:J08-U11 INFO: 10740 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455087 R73-M1-N5-C:J07-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133455110 R71-M1-N3-C:J08-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133455122 R53-M1-N8-C:J08-U11 INFO: 10684 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455125 R71-M0-NF-C:J11-U11 INFO: CE sym 4, at 0x0589f8e0, mask 0x10
+1133455130 R74-M1-NB-C:J09-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133455140 R71-M0-NC-C:J14-U01 INFO: 10616 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455156 R76-M1-N4-C:J06-U11 INFO: 10754 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455159 R60-M0-N4-C:J05-U11 INFO: 10668 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455262 R61-M0-N7-C:J14-U11 INFO: 10708 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455272 R65-M0-NE-C:J10-U11 INFO: 10676 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455288 R41-M1-NF-C:J04-U01 INFO: 10640 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455300 R66-M0-N9-C:J08-U11 INFO: 10666 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455302 R70-M0-N8-C:J12-U11 INFO: 10676 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455305 R66-M0-N5-C:J13-U11 INFO: 10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455319 R40-M0-N8-C:J06-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133455322 R66-M0-NC-C:J04-U11 INFO: 10684 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455455 R44-M0-N3-C:J05-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133455467 R40-M1-NE-C:J10-U11 INFO: 10676 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455483 R43-M0-N2-C:J09-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133455488 R25-M0-N7-C:J07-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133455494 R44-M1-NC-C:J03-U01 INFO: 10714 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455498 R45-M1-NC-C:J07-U01 INFO: 10712 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455511 R25-M1-ND-C:J08-U01 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133455517 R43-M1-ND-C:J08-U01 INFO: 10636 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455621 R26-M0-N9-C:J06-U01 INFO: 10664 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455631 R24-M0-N5-C:J03-U11 INFO: 10730 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455641 R27-M1-N6-C:J11-U11 INFO: 10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455641 R23-M0-ND-C:J11-U11 INFO: 10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455642 R23-M0-ND-C:J08-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133455643 R22-M0-N5-C:J06-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133455648 R23-M0-N2-C:J09-U11 INFO: 10736 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133455649 R23-M1-N5-C:J07-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133455654 R24-M0-N6-C:J05-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133455660 R24-M0-N9-C:J10-U11 INFO: 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+1133458296 R00-M0-NA-C:J14-U11 INFO: 720 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133458363 R00-M0-N8-C:J17-U01 INFO: 720 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.
+1133474785 R47-M1-N4-C:J17-U11 INFO: CE sym 27, at 0x00284720, mask 0x11
+1133475318 R20-M1-NB-C:J09-U01 INFO: CE sym 9, at 0x0021d9c0, mask 0x20
+1133573986 R66-M0-N1-C:J03-U01 INFO: CE sym 15, at 0x06a72120, mask 0x04
+1133625592 R06-M1-NF-C:J12-U01 INFO: 1 ddr error(s) detected and corrected on rank 0, symbol 24 over 335 seconds
+1133630999 R10-M1-N2 WARNING: PrepareForService shutting down Node card(mLctn(R10-M1-N2), mCardSernum(203231503833343000000000594c31304b34323934303257), mLp(FF:F2:9F:16:E0:DA:00:0D:60:E9:1F:25), mIp(10.1.1.164), mType(4)) as part of Service Action 648
+1133638373 R56-M0-NA-C:J15-U11 INFO: Kernel detected 35591540 integer alignment exceptions (35591533) iar 0x0023f108, dear 0x1feaa260 (35591534) iar 0x00265564, dear 0x1feaa1c0 (35591535) iar 0x00265574, dear 0x1feaa1e0 (35591536) iar 0x00265578, dear 0x1feaa200 (35591537) iar 0x00265588, dear 0x1feaa220 (35591538) iar 0x0026558c, dear 0x1feaa240 (35591539) iar 0x00265594, dear 0x1feaa260 (35591540) iar 0x00265598, dear 0x1feaa280
+1133646587 R55-M0-N9-C:J06-U11 INFO: 1 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over 244 seconds
+1133691676 R65-M1-NA-C:J14-U01 INFO: CE sym 27, at 0x1b70b860, mask 0x80
+1133700378 R60-M0-N2-C:J12-U11 INFO: CE sym 33, at 0x1ff2fc60, mask 0x04
+1133700386 R21-M1-N4-C:J10-U01 INFO: CE sym 12, at 0x18e33e80, mask 0x04
+1133706305 R74-M0-N1-C:J05-U01 INFO: CE sym 30, at 0x042358a0, mask 0x20
+1133707549 R60-M0-ND-C:J07-U11 INFO: CE sym 11, at 0x06366640, mask 0x04
+1133709964 R35-M1-N9-C:J14-U01 INFO: CE sym 19, at 0x057c7e00, mask 0x20
+1133715641 R23-M0-NC-C:J05-U01 INFO: 159 ddr error(s) detected and corrected on rank 0, symbol 29 over 2486 seconds
+1133715641 R23-M0-NC-C:J05-U01 INFO: CE sym 29, at 0x0ea9fd60, mask 0x40
+1133715868 R06-M1-N6-C:J08-U01 INFO: total of 1 ddr error(s) detected and corrected over 2487 seconds
+1133721087 R71-M0-N4-C:J14-U01 FATAL: minus normalized number..................0
+1133726737 R46-M0-N8-I:J18-U11 FATAL: Lustre mount FAILED : bglio617 : block_id : location
+1133835041 R52-M1-NA-C:J03-U01 FATAL: fraction rounded.........................0
+1133892304 R12-M0-NC WARNING: Node card is not fully functional
+1133913870 R01-M0-N0-C:J04-U01 INFO: critical input interrupt (unit=0x0b bit=0x17): warning for tree C1 wire, suppressing further interrupts of same type
+1133919747 R03-M0-N7-C:J07-U01 FATAL: size of scratchpad portion of L3.........0 (0M)
+1133925845 R36-M0-N2-C:J05-U01 INFO: Kernel detected 3830884 integer alignment exceptions (3830877) iar 0x00544ea8, dear 0x01fc1ba0 (3830878) iar 0x00544eb8, dear 0x01fc1bc0 (3830879) iar 0x00544ea8, dear 0x01fc1be0 (3830880) iar 0x00544eb8, dear 0x01fc1c00 (3830881) iar 0x00544ee0, dear 0x01fc1c20 (3830882) iar 0x00544ef0, dear 0x01fc1c40 (3830883) iar 0x00544ee0, dear 0x01fc1c60 (3830884) iar 0x00544ef0, dear 0x01fc1c80
+1133926478 R27-M0-NB-C:J08-U01 INFO: Kernel detected 3853444 integer alignment exceptions (3853437) iar 0x00544ea8, dear 0x01ef5e20 (3853438) iar 0x00544eb8, dear 0x01ef5e40 (3853439) iar 0x00544ea8, dear 0x01ef5e60 (3853440) iar 0x00544eb8, dear 0x01ef5e80 (3853441) iar 0x00544ee0, dear 0x01ef5ea0 (3853442) iar 0x00544ef0, dear 0x01ef5ec0 (3853443) iar 0x00544ee0, dear 0x01ef5ee0 (3853444) iar 0x00544ef0, dear 0x01ef5f00
+1133926732 R27-M1-NF-C:J17-U01 INFO: Kernel detected 3747792 integer alignment exceptions (3747785) iar 0x00544ea8, dear 0x01fc9220 (3747786) iar 0x00544eb8, dear 0x01fc9240 (3747787) iar 0x00544ea8, dear 0x01fc9260 (3747788) iar 0x00544eb8, dear 0x01fc9280 (3747789) iar 0x00544ee0, dear 0x01fc92a0 (3747790) iar 0x00544ef0, dear 0x01fc92c0 (3747791) iar 0x00544ee0, dear 0x01fc92e0 (3747792) iar 0x00544ef0, dear 0x01fc9300
+1133928125 R36-M0-N7-C:J09-U11 INFO: Kernel detected 3946290 integer alignment exceptions (3946283) iar 0x00544ea8, dear 0x01ef6080 (3946284) iar 0x00544eb8, dear 0x01ef60a0 (3946285) iar 0x00544ea8, dear 0x01ef60c0 (3946286) iar 0x00544eb8, dear 0x01ef60e0 (3946287) iar 0x00544ee0, dear 0x01ef6100 (3946288) iar 0x00544ef0, dear 0x01ef6120 (3946289) iar 0x00544ee0, dear 0x01ef6140 (3946290) iar 0x00544ef0, dear 0x01ef6160
+1133928278 R26-M0-N9-C:J11-U01 INFO: Kernel detected 4909176 integer alignment exceptions (4909169) iar 0x00544ea8, dear 0x01fc8a40 (4909170) iar 0x00544eb8, dear 0x01fc8a60 (4909171) iar 0x00544ea8, dear 0x01fc8a80 (4909172) iar 0x00544eb8, dear 0x01fc8aa0 (4909173) iar 0x00544ee0, dear 0x01fc8ac0 (4909174) iar 0x00544ef0, dear 0x01fc8ae0 (4909175) iar 0x00544ee0, dear 0x01fc8b00 (4909176) iar 0x00544ef0, dear 0x01fc8b20
+1133928323 R31-M0-NF-C:J07-U11 INFO: Kernel detected 4898338 integer alignment exceptions (4898331) iar 0x00544ea8, dear 0x049e75e0 (4898332) iar 0x00544eb8, dear 0x049e7600 (4898333) iar 0x00544ea8, dear 0x049e7620 (4898334) iar 0x00544eb8, dear 0x049e7640 (4898335) iar 0x00544ee0, dear 0x049e7660 (4898336) iar 0x00544ef0, dear 0x049e7680 (4898337) iar 0x00544ee0, dear 0x049e76a0 (4898338) iar 0x00544ef0, dear 0x049e76c0
+1133928447 R37-M1-N1-C:J02-U01 INFO: Kernel detected 3945740 integer alignment exceptions (3945733) iar 0x00544ea8, dear 0x01ef7960 (3945734) iar 0x00544eb8, dear 0x01ef7980 (3945735) iar 0x00544ea8, dear 0x01ef79a0 (3945736) iar 0x00544eb8, dear 0x01ef79c0 (3945737) iar 0x00544ee0, dear 0x01ef79e0 (3945738) iar 0x00544ef0, dear 0x01ef7a00 (3945739) iar 0x00544ee0, dear 0x01ef7a20 (3945740) iar 0x00544ef0, dear 0x01ef7a40
+1133928743 R36-M0-NE-C:J13-U01 INFO: Kernel detected 3486044 integer alignment exceptions (3486037) iar 0x00544ea8, dear 0x01ef7c60 (3486038) iar 0x00544eb8, dear 0x01ef7c80 (3486039) iar 0x00544ea8, dear 0x01ef7ca0 (3486040) iar 0x00544eb8, dear 0x01ef7cc0 (3486041) iar 0x00544ee0, dear 0x01ef7ce0 (3486042) iar 0x00544ef0, dear 0x01ef7d00 (3486043) iar 0x00544ee0, dear 0x01ef7d20 (3486044) iar 0x00544ef0, dear 0x01ef7d40
+1134109056 R64-M1-NC-I:J18-U01 FATAL: ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1134109138 R20-M1-N0-I:J18-U11 FATAL: ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDbglV: invalid or missing program image, No such file or directory
+1134117490 R70-M0-N7-C:J15-U01 INFO: 1 ddr error(s) detected and corrected on rank 0, symbol 9 over 986 seconds
+1134130421 R34-M1-NB-C:J17-U11 INFO: total of 5 ddr error(s) detected and corrected over 9108 seconds
+1134159256 R20-M1-N4-I:J18-U01 FATAL: ciod: Error loading /p/gb1/stella/SPPM/1322/sppm_DD: invalid or missing program image, Permission denied
+1134159495 R27-M0-N4-I:J18-U11 FATAL: ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1383/inferno: invalid or missing program image, Permission denied
+1134159559 R03-M0-N0-I:J18-U11 FATAL: ciod: Error loading /p/gb1/stella/UMT2K/1372/umt2k_DD: invalid or missing program image, Permission denied
+1134160405 R06-M0-N4-I:J18-U01 FATAL: ciod: Error loading /bgl/apps/SWL/stability/NEWS05/news05_DD: invalid or missing program image, Permission denied
+1134160534 R61-M1-N8-I:J18-U01 FATAL: ciod: Error loading /p/gb1/stella/UMT2K/1325/umt2k_DD: invalid or missing program image, Permission denied
+1134160697 R64-M0-N8-I:J18-U11 FATAL: ciod: Error loading /p/gb1/stella/UMT2K/1369/umt2k_DD: invalid or missing program image, Permission denied
+1134161333 R61-M0-N0-I:J18-U11 FATAL: ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1498./hpl_DD: invalid or missing program image, No such file or directory
+1134161388 R07-M0-N8-I:J18-U11 FATAL: ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1501./hpl_DD: invalid or missing program image, No such file or directory
+1134259774 R15-M1-NE-C:J06-U01 INFO: 28 ddr error(s) detected and corrected on rank 0, symbol 21 over 11562 seconds
+1134357549 R63-M1-N0-I:J18-U11 FATAL: ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error
+1134496355 R74-M1-N8-I:J18-U11 FATAL: ciod: Error reading message prefix on CioStream socket to 172.16.96.116:55929, Link has been severed
+1134496398 R44-M0-N4-I:J18-U01 FATAL: ciod: Error reading message prefix on CioStream socket to 172.16.96.116:56170, Link has been severed
+1134530536 R74-M1-N0-C:J12-U01 INFO: 2 ddr error(s) detected and corrected on rank 0, symbol 28 over 3365 seconds
+1134599601 R76-M1-N0-I:J18-U01 FATAL: ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image, Permission denied
+1134601394 R42-M1-N2-C:J03-U11 INFO: critical input interrupt (unit=0x0b bit=0x0a): warning for torus z+ wire, suppressing further interrupts of same type
+1134623156 R61-M0-N8-C:J17-U11 INFO: 2 ddr error(s) detected and corrected on rank 0, symbol 34 over 2738 seconds
+1134626183 R74-M1-N0-C:J12-U01 INFO: 5 ddr error(s) detected and corrected on rank 0, symbol 28 over 2946 seconds
+1134630981 R37-M1-N8-I:J18-U11 FATAL: ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49934, Link has been severed
+1134631019 R32-M0-NC-I:J18-U01 FATAL: ciod: Error reading message prefix on CioStream socket to 172.16.96.116:50288, Link has been severed
+1134748483 R60-M1-N7-C:J17-U01 INFO: total of 20 ddr error(s) detected and corrected over 22070 seconds
+1134784680 R66-M0-N8-I:J18-U01 INFO: ciod: pollControlDescriptors: Detected the debugger died.
+1134929456 R30-M1-N3-C:J13-U01 INFO: 2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 282 seconds
+1134954903 R13-M1-N1-C:J03-U01 INFO: total of 3 ddr error(s) detected and corrected over 8732 seconds
+1135050698 R77-M1-NC-I:J18-U01 INFO: ciod: pollControlDescriptors: Detected the debugger died.
+1135095320 R45-M0-N4-I:J18-U01 INFO: ciod: generated 128 core files for program /g/g24/germann2/SPaSM_static/SPaSM_mpi
+1135178837 R62-M0-N4-I:J18-U01 FATAL: ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.32.exe: program image too big, 361544528 > 266076160
+1135579635 R62-M1-NA-C:J04-U01 FATAL: fpr29=0xffffffff ffffffff ffffffff ffffffff
+1135602839 R61-M0-N3-C:J11-U11 FATAL: Machine State Register: 0x0002f900
+1135643288 R37-M1-NC-C:J02-U11 INFO: instruction cache parity error corrected
+1135651811 R37-M1-NC-C:J02-U11 INFO: instruction cache parity error corrected
+1135653442 R37-M1-NC-C:J02-U11 INFO: instruction cache parity error corrected
+1135661328 R37-M1-NC-C:J02-U11 INFO: instruction cache parity error corrected
+1135665476 R37-M1-NC-C:J02-U11 INFO: instruction cache parity error corrected
+1135669430 R37-M1-NC-C:J02-U11 INFO: instruction cache parity error corrected
+1135669517 R37-M1-NC-C:J02-U11 INFO: instruction cache parity error corrected
+1135675498 R37-M1-NC-C:J02-U11 INFO: instruction cache parity error corrected
+1136301189 R07-M0-N0-I:J18-U11 INFO: ciod: generated 128 core files for program /g/g24/germann2/SPaSM_mini/MEAM/r13

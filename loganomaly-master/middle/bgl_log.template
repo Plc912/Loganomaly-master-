@@ -1,0 +1,41 @@
+ M1 error N7 Error is ERROR No R11 card not Node IS OK status asserted volt rail active The Temperature Reset PGOOD MPGOOD JTAG Clock NOT LATCH ACTIVE clear temperature are Select Phy Mode Midplane Mask Low Limit Latch ASIC no ASSERTED ALERTs 
+ M0 error NC Error is ERROR No card not Node IS OK status asserted volt rail active The Temperature Reset PGOOD MPGOOD JTAG Clock R71 NOT LATCH ACTIVE clear temperature are Select Phy Mode Midplane Mask Low Limit Latch ASIC no ASSERTED ALERTs 
+ M1 error N4 Error is ERROR No card not Node IS OK status asserted volt rail active The Temperature Reset PGOOD MPGOOD JTAG Clock NOT LATCH ACTIVE clear R76 temperature are Select Phy Mode Midplane Mask Low Limit Latch ASIC no ASSERTED ALERTs 
+ M0 error N7 Error R26 is ERROR No card not Node IS OK status asserted volt rail active The Temperature Reset PGOOD MPGOOD JTAG Clock NOT LATCH ACTIVE clear temperature are Select Phy Mode Midplane Mask Low Limit Latch ASIC no ASSERTED ALERTs 
+ M1 error N8 Error is ERROR No card not Node IS OK status asserted volt rail active The Temperature Reset PGOOD MPGOOD JTAG Clock NOT LATCH ACTIVE clear R76 temperature are Select Phy Mode Midplane Mask Low Limit Latch ASIC no ASSERTED ALERTs 
+ M0 error N2 Error is ERROR No R00 card not Node OK status asserted volt rail active The Temperature Reset PGOOD MPGOOD JTAG Clock clear temperature are Select Phy Mode Midplane Mask Low Limit Latch ASIC ALERT latch 
+ M1 N2 of card R10 Node WARNING shutting part mType mLp mLctn mIp mCardSernum down as Service PrepareForService Action 
+ M1 N2 of R25 WARNING shutting part mType mLp mLctn mIp mCardSernum down as Service PrepareForService NodeCard Action 
+ file Source ASSERT ERROR line nan int idotransportmgr idoproxydb hit expression cpp condition SendPacket IdoUdpMgr* IdoTransportMgr Function BglCtlPavTrace* 
+ INFO status UNKNOWN_LOCATION v t ip chip changed PDT M Ido Sep Sat 
+ INFO status UNKNOWN_LOCATION v t ip chip changed PDT M Ido Aug Tue 
+ INFO status UNKNOWN_LOCATION v t ip chip changed PDT M Ido Aug Thu 
+ INFO status UNKNOWN_LOCATION v t ip chip changed PDT M Ido Jul Fri 
+ M1 N4 for R37 card not node SEVERE information get assembly Can 
+ INFO the UNKNOWN_LOCATION v t ip chip into inserted ido database New 
+ M1 for N5 card not node R40 SEVERE information get assembly Can 
+ M0 for N3 card not node R44 SEVERE information get assembly Can 
+ M0 N0 for card not node SEVERE information get assembly R70 Can 
+ M0 N2 is R05 card not Node functional WARNING fully 
+ M1 ND is card not Node functional WARNING fully R51 
+ M1 NE is R02 card not Node functional WARNING fully 
+ M0 NC is card not R12 Node functional WARNING fully 
+ for card not node UNKNOWN_LOCATION SEVERE information get assembly Can 
+ M0 N1 is card not Node R74 functional WARNING fully 
+ M1 ND is card R06 not Node functional WARNING fully 
+ U01 M1 core FATAL N5 J13 R20 register configuration 
+ M0 N7 is R23 not functional fully SEVERE NodeCard 
+ M0 U01 core FATAL NF J08 R24 register configuration 
+ U01 M1 core FATAL N6 J17 R24 register configuration 
+ M0 U11 core FATAL ND J17 R21 register configuration 
+ M0 U01 core FATAL J15 NF R26 register configuration 
+ M0 U11 core FATAL N7 J02 R21 register configuration 
+ U01 M1 core FATAL NA J03 R20 register configuration 
+ INFO M0 U01 
+ M1 U11 FATAL 
+ INFO M0 U11 
+ U01 M1 FATAL 
+ INFO M1 U11 
+ M0 U01 FATAL 
+ INFO U01 M1 
+ M0 U11 FATAL 
